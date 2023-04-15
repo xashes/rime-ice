@@ -1,0 +1,20 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: wubi_moye
+version: "2023-04-12"
+import_tables:
+  - wubi_dicts/wubi_8105     # 字表
+  - wubi_dicts/wubi86_simp_ext
+  # - wubi_dicts/wubi86_jidian
+  # - wubi_dicts/41448  # 大字表（按需启用）
+  # - wubi_dicts/base     # 基础词库
+  # - wubi_dicts/sogou    # 搜狗流行词
+  # - wubi_dicts/ext      # 扩展词库
+  # - wubi_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  # - wubi_dicts/others   # 一些杂项
+
+  # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
+  # - wubi_dicts/my_dict
+...

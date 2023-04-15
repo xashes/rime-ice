@@ -1,0 +1,619 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	652
+#@/user_id	emacs@mac
+an shu 	按书	c=1 d=0.106992 t=652
+an wang 	暗网	c=0 d=0.0313486 t=652
+ao man 	傲慢	c=0 d=0.00590129 t=652
+ba 	吧	c=2 d=0.288387 t=652
+ba 	把	c=2 d=0.991949 t=652
+ba bing 	把柄	c=0 d=0.0634448 t=652
+ba zhao pian 	把照片	c=0 d=0.0292293 t=652
+bai xi 	白皙	c=1 d=0.0833256 t=652
+ban 	办	c=0 d=0.0315058 t=652
+ban 	般	c=1 d=0.0739031 t=652
+ban gong shi 	办公室	c=1 d=0.155673 t=652
+ban li 	办理	c=1 d=0.126818 t=652
+ban shang 	半晌	c=1 d=0.329559 t=652
+ban zhe me dian xiao shi 	办这么点小事	c=1 d=0.316637 t=652
+bao fu 	报复	c=1 d=0.390628 t=652
+bao lou 	暴露	c=0 d=0.0353455 t=652
+bei 	被	c=1 d=0.366045 t=652
+bei hou 	背后	c=1 d=0.1764 t=652
+bei shao 	被烧	c=0 d=0.00672055 t=652
+bei wo men 	被我们	c=1 d=0.38868 t=652
+bi na 	比那	c=0 d=0.0918512 t=652
+bi na ge gao ji 	比那个高级	c=1 d=0.923116 t=652
+bi ta 	比他	c=0 d=0.0421052 t=652
+bie 	别	c=1 d=0.208045 t=652
+bie ren 	别人	c=1 d=0.562705 t=652
+bo ai 	博爱	c=1 d=0.113608 t=652
+bu 	不	c=9 d=3.24098 t=652
+bu cuo 	不错	c=1 d=0.137381 t=652
+bu cuo bu cuo 	不错不错	c=1 d=0.142987 t=652
+bu dan xin 	不担心	c=1 d=0.748264 t=652
+bu dao 	不到	c=0 d=0.0279431 t=652
+bu gou cha 	不够差	c=1 d=0.063609 t=652
+bu man 	不满	c=0 d=0.0182684 t=652
+bu si 	不死	c=0 d=0.0737123 t=652
+bu yao 	不要	c=1 d=0.628135 t=652
+bu yao hu shuo 	不要胡说	c=1 d=1 t=652
+bu yi ban 	不一般	c=0 d=0.0856415 t=652
+bu yi ding 	不一定	c=1 d=0.600496 t=652
+bu yong 	不用	c=0 d=0.0438235 t=652
+bu yong tai fei xin 	不用太费心	c=1 d=0.440432 t=652
+bu zao ren ji shi yong cai ma 	不遭人忌是庸才嘛	c=1 d=0.0682212 t=652
+bu zhi 	不知	c=1 d=0.287941 t=652
+bu zhi xiang zuo zhe yi jian shi 	不只想做这一件事	c=1 d=0.341298 t=652
+cai 	才	c=0 d=0.0348192 t=652
+cai dao le 	猜到了	c=1 d=0.179964 t=652
+cai mao shuang quan 	才貌双全	c=1 d=0.143704 t=652
+cao 	草	c=1 d=0.092089 t=652
+cha 	差	c=0 d=0.00658748 t=652
+cha 	查	c=1 d=0.414783 t=652
+cha bu chu 	查不出	c=0 d=0.0509156 t=652
+cha chu lai 	查出来	c=1 d=0.224249 t=652
+cha le 	查了	c=1 d=0.236928 t=652
+chan pin 	产品	c=1 d=0.814647 t=652
+che di 	彻底	c=0 d=0.0344728 t=652
+che di gao si ni 	彻底搞死你	c=1 d=0.346456 t=652
+chen 	沉	c=1 d=0.161218 t=652
+cheng le 	成了	c=1 d=0.831104 t=652
+cheng zan 	称赞	c=0 d=0.0144424 t=652
+cheng zuo 	称作	c=1 d=0.852144 t=652
+chu 	出	c=1 d=0.0871609 t=652
+chu fei 	除非	c=1 d=0.366661 t=652
+chu fei ta men 	除非他们	c=1 d=0.339596 t=652
+chu le 	出了	c=2 d=0.557278 t=652
+chu le 	除了	c=1 d=0.427415 t=652
+chu zhong 	出众	c=1 d=0.121238 t=652
+chuan shuo zhong de 	传说中的	c=1 d=0.0515605 t=652
+chuan wen 	传闻	c=1 d=0.163654 t=652
+chun guang 	春光	c=1 d=0.0953692 t=652
+cong lai 	从来	c=1 d=0.486752 t=652
+da 	大	c=3 d=0.507087 t=652
+da xiao 	大笑	c=1 d=0.782705 t=652
+da yi 	大意	c=1 d=0.209088 t=652
+da zhi 	大指	c=0 d=0.0144424 t=652
+dai lai 	带来	c=0 d=0.0995012 t=652
+dai zai yi qi 	待在一起	c=1 d=0.985112 t=652
+dai zhe 	带着	c=0 d=0.0064894 t=652
+dai zhe liang ge jin fa mei nv 	带着两个金发美女	c=1 d=0.0652193 t=652
+dan 	但	c=3 d=1.04424 t=652
+dan chun 	单纯	c=1 d=0.251579 t=652
+dan ji kua yi jia 	但击垮一家	c=1 d=0.591555 t=652
+dan ni 	但你	c=0 d=0.0548812 t=652
+dan ni zi ji 	但你自己	c=1 d=0.551563 t=652
+dan xin 	担心	c=1 d=0.767206 t=652
+dang nian 	当年	c=0 d=0.00665368 t=652
+dao 	到	c=2 d=0.153656 t=652
+dao 	道	c=1 d=0.524663 t=652
+dao de zhi gao dian 	道德制高点	c=0 d=0.0319819 t=652
+dao xie 	道谢	c=1 d=0.136014 t=652
+de 	地	c=1 d=0.101266 t=652
+de 	的	c=25 d=6.11915 t=652
+de yi 	得意	c=1 d=0.142274 t=652
+de zui 	得罪	c=1 d=0.301508 t=652
+dei 	得	c=0 d=0.0878095 t=652
+dei wang shen ti li 	得往身体里	c=1 d=0.882497 t=652
+deng 	等	c=4 d=1.83211 t=652
+di er 	第二	c=1 d=0.57695 t=652
+di qi shi er zhang 	第七十二章	c=1 d=0.960789 t=652
+di yi 	第一	c=1 d=0.574072 t=652
+di yi ge 	第一个	c=1 d=0.238115 t=652
+di zhi 	地址	c=1 d=0.299692 t=652
+dian dian tou 	点点头	c=1 d=0.40657 t=652
+ding shang 	盯上	c=0 d=0.0748264 t=652
+ding zhe ta 	盯着她	c=1 d=0.571209 t=652
+dong mi ban 	董秘办	c=2 d=0.181484 t=652
+dong wo 	懂我	c=1 d=0.0982736 t=652
+dou 	都	c=1 d=0.384604 t=652
+dou shuo 	都说	c=1 d=0.882497 t=652
+dou zhui zong bu dao 	都追踪不到	c=1 d=0.280832 t=652
+dui 	对	c=1 d=0.196912 t=652
+dui fang 	对方	c=1 d=0.763379 t=652
+dui le 	对了	c=1 d=0.786628 t=652
+dui wo 	对我	c=0 d=0.0182684 t=652
+dui wo bu man 	对我不满	c=1 d=0.183599 t=652
+duo 	多	c=0 d=0.0965605 t=652
+er 	儿	c=1 d=0.257947 t=652
+er nv 	二女	c=1 d=0.0614212 t=652
+er qie 	而且	c=1 d=0.347306 t=652
+er qie hen zhuan ye 	而且很专业	c=1 d=0.292293 t=652
+er shi 	而是	c=1 d=0.348192 t=652
+fa de 	发的	c=1 d=0.245367 t=652
+fa sheng 	发生	c=1 d=0.0578443 t=652
+fa xian 	发现	c=1 d=0.304221 t=652
+fan shi 	凡事	c=2 d=1.38514 t=652
+fan ying 	反应	c=1 d=0.0526021 t=652
+fei chang 	非常	c=1 d=0.364939 t=652
+fei xin 	费心	c=1 d=0.173204 t=652
+fen 	分	c=1 d=0.0528657 t=652
+fen xi de 	分析的	c=0 d=0.0369723 t=652
+fen xi de ji shi 	分析的及时	c=1 d=0.371577 t=652
+feng man 	丰满	c=1 d=0.0880368 t=652
+feng ping 	风评	c=1 d=0.0695637 t=652
+feng ping cha 	风评差	c=1 d=0.066205 t=652
+gan bu gan 	敢不敢	c=1 d=0.900325 t=652
+gan da 	敢打	c=0 d=0.0733447 t=652
+gan da zan men xiong di de zhu yi 	敢打咱们兄弟的注意	c=1 d=0.737123 t=652
+gan de 	干的	c=0 d=0.0226502 t=652
+gan de le 	干的了	c=1 d=0.227638 t=652
+gan ji 	感激	c=0 d=0.0647265 t=652
+gan ji de 	感激的	c=1 d=0.650509 t=652
+gan tan 	感叹	c=1 d=0.0587185 t=652
+gao 	搞	c=1 d=0.453845 t=652
+gao 	高	c=1 d=0.451581 t=652
+gao de 	搞的	c=1 d=0.281497 t=652
+gao ji 	高级	c=0 d=0.0918512 t=652
+gao ke ji 	高科技	c=2 d=1.667 t=652
+gao si ni 	搞死你	c=0 d=0.0344728 t=652
+gao tiao 	高挑	c=1 d=0.0769192 t=652
+gao xing 	高兴	c=1 d=0.918512 t=652
+ge 	个	c=2 d=0.349794 t=652
+ge men 	哥们	c=1 d=0.272532 t=652
+gen ju 	根据	c=0 d=0.029671 t=652
+gen ju xian shi de 	根据显示的	c=1 d=0.298197 t=652
+gen ni 	跟你	c=0 d=0.0585669 t=652
+geng da 	更大	c=0 d=0.0923116 t=652
+geng da zeng 	更大增	c=1 d=0.927743 t=652
+gong si 	公司	c=2 d=0.648134 t=652
+gou le 	勾勒	c=0 d=0.00862936 t=652
+gua zhi 	挂职	c=2 d=0.105115 t=652
+guo nei 	国内	c=1 d=0.458967 t=652
+guo nei bi ta qiang de mei ji ge 	国内比他强的没几个	c=1 d=0.423162 t=652
+guo ran 	果然	c=1 d=0.905518 t=652
+guo ran shi ge 	果然是个	c=1 d=0.113042 t=652
+guo zao 	过早	c=0 d=0.0353455 t=652
+guo zao bao lou 	过早暴露	c=1 d=0.355226 t=652
+ha ha 	哈哈	c=1 d=0.778801 t=652
+hai 	还	c=3 d=1.40452 t=652
+hai da 	还打	c=0 d=0.025924 t=652
+hai shi 	还是	c=1 d=0.0972957 t=652
+hai you 	还有	c=1 d=0.0513033 t=652
+hai you ji ge tong xue yi qi 	还有几个同学一起	c=1 d=0.0497871 t=652
+hao 	好	c=1 d=0.955997 t=652
+he 	和	c=2 d=1.06982 t=652
+he ge 	合格	c=1 d=0.106459 t=652
+he tong xue men 	和同学们	c=1 d=0.0569831 t=652
+he xiao zhao 	和小昭	c=1 d=0.0572688 t=652
+hei ke 	黑客	c=0 d=0.0416862 t=652
+hei se 	黑色	c=1 d=0.082085 t=652
+hen 	很	c=1 d=0.187308 t=652
+hen di 	很低	c=1 d=0.0948935 t=652
+hen duo shi hou 	很多时候	c=1 d=0.597501 t=652
+hen hao 	很好	c=1 d=0.119433 t=652
+hen zhuan ye 	很专业	c=0 d=0.0290835 t=652
+hou bei 	后背	c=1 d=0.66034 t=652
+hou mian 	后面	c=1 d=0.263158 t=652
+huai 	怀	c=1 d=0.0464212 t=652
+hui 	会	c=2 d=0.692615 t=652
+hui le 	回了	c=1 d=0.873716 t=652
+hui xiao xin de 	会小心地	c=1 d=0.67032 t=652
+huo zhe 	或者	c=1 d=0.375311 t=652
+ji 	忌	c=0 d=0.00678809 t=652
+ji fen 	积分	c=0 d=0.0103312 t=652
+ji fen jia cheng 	积分加成	c=1 d=0.10383 t=652
+ji ge 	几个	c=0 d=0.034477 t=652
+ji ge tie zi he shi pin 	几个帖子和视频	c=1 d=0.29671 t=652
+ji kua 	击垮	c=0 d=0.0588605 t=652
+ji shi 	及时	c=0 d=0.0369723 t=652
+ji tian 	几天	c=0 d=0.0951229 t=652
+ji xu 	继续	c=1 d=0.412714 t=652
+ji yu 	觊觎	c=1 d=0.062662 t=652
+jia cheng 	加成	c=0 d=0.0103312 t=652
+jian 	件	c=2 d=0.572329 t=652
+jian dan 	简单	c=2 d=0.332202 t=652
+jian dan de mian shi 	简单的面试	c=1 d=0.115903 t=652
+jian le 	见了	c=1 d=0.0507928 t=652
+jian shang 	肩上	c=1 d=0.0746459 t=652
+jiang 	讲	c=1 d=0.481909 t=652
+jiang lai 	将来	c=1 d=0.380983 t=652
+jiao xiao 	娇笑	c=0 d=0.0865022 t=652
+jiao xiao zhe 	娇笑着	c=1 d=0.869358 t=652
+jiao yan 	娇艳	c=0 d=0.0927743 t=652
+jiao yan zhi se 	娇艳之色	c=1 d=0.932394 t=652
+jiao zhu 	教主	c=0 d=0.0882497 t=652
+jie hua 	接话	c=1 d=0.337902 t=652
+jin fa 	金发	c=2 d=0.119456 t=652
+jin fa mei nv 	金发美女	c=1 d=0.0774945 t=652
+jin tian 	今天	c=1 d=0.168638 t=652
+jin tie 	紧贴	c=1 d=0.0850088 t=652
+jing bu 	颈部	c=2 d=0.156566 t=652
+jing guo 	经过	c=0 d=0.0305746 t=652
+jing guo le 	经过了	c=0 d=0.0313486 t=652
+jing ya 	惊讶	c=0 d=0.0285076 t=652
+jiu chu lai 	揪出来	c=0 d=0.0729789 t=652
+jiu chu lai de 	揪出来的	c=1 d=0.733447 t=652
+jiu shi 	就是	c=1 d=0.873716 t=652
+jiu xing 	就行	c=1 d=0.110803 t=652
+ju ran 	居然	c=0 d=0.0117655 t=652
+kai shi 	开始	c=0 d=0.0272532 t=652
+kai shi si chu kuo san 	开始四处扩散	c=1 d=0.273898 t=652
+kan 	看	c=1 d=0.138761 t=652
+kan dao 	看到	c=1 d=0.169483 t=652
+kan dao le 	看到了	c=1 d=0.170333 t=652
+kan de 	看得	c=1 d=0.146607 t=652
+kan lai 	看来	c=1 d=0.106992 t=652
+kan le xia 	看了下	c=1 d=0.104874 t=652
+kan ni 	看你	c=1 d=0.895834 t=652
+kan zhe 	看着	c=2 d=0.134169 t=652
+kang heng 	抗衡	c=0 d=0.0585669 t=652
+kao ji shu 	靠技术	c=1 d=0.606531 t=652
+ke 	可	c=0 d=0.0951229 t=652
+ke gao de wo zhe ji tian shui bu zhao le 	可搞的我这几天睡不着了	c=1 d=0.955997 t=652
+ke neng 	可能	c=2 d=1.46084 t=652
+ken 	肯	c=1 d=0.970446 t=652
+kua ta 	夸他	c=0 d=0.0904837 t=652
+kua ta piao liang 	夸他漂亮	c=1 d=0.909373 t=652
+kuo san 	扩散	c=0 d=0.0272532 t=652
+kuo san kai 	扩散开	c=0 d=0.0292293 t=652
+lai 	来	c=3 d=0.981835 t=652
+lai li 	来历	c=1 d=0.606004 t=652
+lai li shen mi 	来历神秘	c=1 d=0.535261 t=652
+lan 	蓝	c=0 d=0.0882497 t=652
+lan feng huang 	蓝凤凰	c=3 d=0.971022 t=652
+lan jiao zhu 	蓝教主	c=1 d=0.88692 t=652
+lao di 	老弟	c=1 d=0.162026 t=652
+le 	了	c=10 d=3.09947 t=652
+li gong da xue 	理工大学	c=1 d=0.241714 t=652
+li ta 	离他	c=0 d=0.0254107 t=652
+li ta de nv shen 	离他的女神	c=1 d=0.255381 t=652
+lian 	连	c=1 d=0.278037 t=652
+lian se 	脸色	c=1 d=0.207087 t=652
+lian se yan su 	脸色严肃	c=1 d=0.477114 t=652
+lian wo 	连我	c=0 d=0.0509156 t=652
+lian wo dou cha bu chu 	连我都查不出	c=1 d=0.511709 t=652
+lian yi qun 	连衣裙	c=1 d=0.0824965 t=652
+liang chan 	量产	c=0 d=0.0818731 t=652
+liang ge 	两个	c=0 d=0.0064894 t=652
+liang ren 	两人	c=1 d=0.157237 t=652
+liao 	聊	c=1 d=0.149569 t=652
+lin 	林	c=1 d=0.0461896 t=652
+lin huai 	林怀	c=14 d=6.52426 t=652
+lin huai dai lai 	林怀带来	c=1 d=1 t=652
+lin huai de 	林怀的	c=1 d=0.657047 t=652
+lin xiong 	林兄	c=4 d=1.03229 t=652
+ling kou 	领口	c=1 d=0.0944202 t=652
+lou chu 	露出	c=1 d=0.08291 t=652
+lun 	论	c=0 d=0.0416862 t=652
+lun hei ke 	论黑客	c=1 d=0.418952 t=652
+lun ji shu 	论技术	c=1 d=0.579842 t=652
+ma 	吗	c=3 d=0.555539 t=652
+ma 	嘛	c=0 d=0.00678809 t=652
+ma 	码	c=1 d=0.297097 t=652
+man yi 	满意	c=1 d=0.140156 t=652
+man yi de 	满意地	c=1 d=0.122456 t=652
+mei ji ge 	没几个	c=0 d=0.0421052 t=652
+mei nv 	美女	c=2 d=0.157138 t=652
+mei ren 	没人	c=1 d=0.585669 t=652
+mei shen me ke pa 	没什么可怕	c=1 d=0.458406 t=652
+mei shen me wen ti 	没什么问题	c=1 d=0.25924 t=652
+mei shi er 	没事儿	c=1 d=0.433874 t=652
+mei tou wei zhou 	眉头微皱	c=1 d=0.398519 t=652
+mei yan wu shuang 	美艳无双	c=1 d=0.891366 t=652
+mei you 	没有	c=3 d=0.829327 t=652
+men 	门	c=1 d=0.132655 t=652
+mi shu 	秘书	c=1 d=0.0550232 t=652
+mian de 	免得	c=1 d=0.353455 t=652
+mian shi 	面试	c=1 d=0.113307 t=652
+miao hui 	描绘	c=1 d=0.0500366 t=652
+ming bai 	明白	c=2 d=0.834802 t=652
+ming bu xu chuan 	名不虚传	c=1 d=0.900325 t=652
+mo hei 	抹黑	c=0 d=0.00672055 t=652
+mo ye 	莫邪	c=5 d=1.30855 t=652
+na ge 	哪个	c=1 d=0.182684 t=652
+na wei 	哪位	c=0 d=0.0362402 t=652
+na wei tong hang 	哪位同行	c=1 d=0.364219 t=652
+nan guai 	难怪	c=1 d=0.960789 t=652
+nan mian 	难免	c=1 d=0.189191 t=652
+nan sheng 	男生	c=1 d=0.244143 t=652
+nan tong xue 	男同学	c=1 d=0.0599047 t=652
+nao ji jie kou 	脑机接口	c=1 d=0.904837 t=652
+nei rong 	内容	c=0 d=0.0621885 t=652
+neng 	能	c=0 d=0.0585669 t=652
+neng bei 	能被	c=1 d=0.843665 t=652
+neng gen ni kang heng 	能跟你抗衡	c=1 d=0.588605 t=652
+neng li 	能力	c=1 d=0.120032 t=652
+ni 	你	c=9 d=4.0729 t=652
+ni de 	你的	c=1 d=0.621885 t=652
+ni kan wo 	你看我	c=0 d=0.0737123 t=652
+ni kan wo nie bu si ta de 	你看我捏不死他的	c=1 d=0.740818 t=652
+ni lia 	你俩	c=1 d=0.148823 t=652
+ni shuo hua 	你说话	c=1 d=0.937067 t=652
+ni ye bu yong 	你也不用	c=1 d=0.683861 t=652
+ni zhe 	你这	c=0 d=0.0946485 t=652
+ni zhe xia 	你这下	c=1 d=0.951229 t=652
+nie 	捏	c=0 d=0.0737123 t=652
+nv 	女	c=0 d=0.0254107 t=652
+nv sheng 	女生	c=0 d=0.025924 t=652
+o 	哦	c=1 d=0.222017 t=652
+pa 	怕	c=1 d=0.379083 t=652
+pa shen me 	怕什么	c=1 d=0.0665368 t=652
+pai chi 	排斥	c=1 d=0.108609 t=652
+pai le pai 	拍了拍	c=1 d=0.65377 t=652
+pi zai 	披在	c=1 d=0.0742736 t=652
+pian 	片	c=1 d=0.282239 t=652
+piao liang 	漂亮	c=1 d=0.170542 t=652
+pu bu 	瀑布	c=1 d=0.0735345 t=652
+qi 	七	c=1 d=0.232236 t=652
+qi 	起	c=0 d=0.00495388 t=652
+qi 	齐	c=1 d=0.2334 t=652
+qi shen 	起身	c=1 d=0.133989 t=652
+qi xiang teng da 	齐翔腾达	c=1 d=0.0450492 t=652
+qi xin tong de 	齐心同德	c=1 d=0.045275 t=652
+qi yue 	齐越	c=3 d=0.992793 t=652
+qiang de 	强的	c=0 d=0.0421052 t=652
+qiao tun 	翘臀	c=1 d=0.0902655 t=652
+qin re 	亲热	c=0 d=0.00614212 t=652
+qin re fei chang 	亲热非常	c=1 d=0.0617291 t=652
+qing jiang 	请将	c=1 d=0.479505 t=652
+qu 	去	c=7 d=1.70837 t=652
+qu xian 	曲线	c=1 d=0.0911727 t=652
+qu xian you mei 	曲线优美	c=1 d=0.0780817 t=652
+qun zi 	裙子	c=1 d=0.0845849 t=652
+rang 	让	c=4 d=0.533282 t=652
+rang ni 	让你	c=0 d=0.0748264 t=652
+rang ni ding shang 	让你盯上	c=1 d=0.752014 t=652
+rang ren 	让人	c=1 d=0.631284 t=652
+ren 	人	c=5 d=2.06375 t=652
+ren duo 	人多	c=1 d=0.207008 t=652
+rong yan 	容颜	c=1 d=0.99005 t=652
+ru 	如	c=1 d=0.0731678 t=652
+ru ci 	如此	c=1 d=0.20089 t=652
+ru zhi 	入职	c=1 d=0.127454 t=652
+ruan jian 	软件	c=0 d=0.00515605 t=652
+sa zai 	洒在	c=1 d=0.0753961 t=652
+se 	色	c=1 d=0.0939493 t=652
+shang bu liao 	上不了	c=0 d=0.00483156 t=652
+shang bu liao shou 	上不了手	c=1 d=0.0485578 t=652
+shang mian 	上面	c=1 d=0.075774 t=652
+shao bei 	少被	c=1 d=0.0678809 t=652
+shei 	谁	c=1 d=0.226502 t=652
+shen 	神	c=0 d=0.0254107 t=652
+shen cai 	身材	c=1 d=0.0765355 t=652
+shen chuan 	身穿	c=0 d=0.00804596 t=652
+shen chuan yi jian 	身穿一件	c=1 d=0.0808629 t=652
+shen fen 	身份	c=1 d=0.351692 t=652
+shen me 	什么	c=1 d=0.121579 t=652
+shen me ba bing 	什么把柄	c=1 d=0.637628 t=652
+shen me dong xi a 	什么东西啊	c=1 d=0.937067 t=652
+shen mi 	神秘	c=0 d=0.0532592 t=652
+shen ti 	身体	c=1 d=0.0862936 t=652
+shen ti li 	身体里	c=0 d=0.0878095 t=652
+sheng gu 	圣姑	c=1 d=0.965605 t=652
+shi 	事	c=2 d=0.706503 t=652
+shi 	时	c=1 d=0.158025 t=652
+shi 	是	c=8 d=2.21799 t=652
+shi de 	是的	c=1 d=0.33454 t=652
+shi er 	事儿	c=1 d=0.211189 t=652
+shi fen 	十分	c=3 d=1.10434 t=652
+shi ge 	十个	c=1 d=0.310367 t=652
+shi ge 	是个	c=0 d=0.0112478 t=652
+shi he 	适合	c=0 d=0.0818731 t=652
+shi he liang chan 	适合量产	c=1 d=0.822835 t=652
+shi huai 	使坏	c=2 d=0.353711 t=652
+shi huai 	是坏	c=1 d=0.173774 t=652
+shi li 	实力	c=1 d=0.0590129 t=652
+shi pin 	视频	c=0 d=0.029523 t=652
+shi xi 	实习	c=3 d=0.164205 t=652
+shi yan 	试验	c=3 d=1.09078 t=652
+shi yan shi 	实验室	c=1 d=0.0480747 t=652
+shi zuo yong zhe 	始作俑者	c=1 d=0.276651 t=652
+shou 	手	c=0 d=0.00483156 t=652
+shou duan 	手段	c=1 d=0.421052 t=652
+shou fa 	手法	c=1 d=0.357007 t=652
+shou xu 	手续	c=1 d=0.128093 t=652
+shu chu 	输出	c=0 d=0.0621885 t=652
+shu chu de nei rong 	输出的内容	c=1 d=0.625002 t=652
+shuang bi 	双臂	c=1 d=0.084163 t=652
+shui bu zhao le 	睡不着了	c=0 d=0.0951229 t=652
+si chu 	四处	c=0 d=0.0272532 t=652
+song 	送	c=1 d=0.0968105 t=652
+song ni 	送你	c=0 d=0.0831104 t=652
+song ni yi tao 	送你一套	c=1 d=0.83527 t=652
+suo yi 	所以	c=0 d=0.0348192 t=652
+suo yi cai yao yin mi 	所以才要隐秘	c=1 d=0.349938 t=652
+ta 	他	c=2 d=0.845117 t=652
+ta 	她	c=5 d=1.69031 t=652
+ta de 	他的	c=0 d=0.0737123 t=652
+ta de 	她的	c=0 d=0.0511709 t=652
+ta de lai li 	她的来历	c=1 d=0.514274 t=652
+ta gan jin 	他赶紧	c=1 d=0.13332 t=652
+ta men 	他们	c=2 d=0.45923 t=652
+ta men 	她们	c=1 d=0.431711 t=652
+ta men zhi yu zhe me yin mi 	他们至于这么隐秘	c=1 d=0.323033 t=652
+tai 	太	c=0 d=0.0438235 t=652
+tai dan xin 	太担心	c=1 d=0.687289 t=652
+tai guo fen 	太过分	c=1 d=0.386741 t=652
+tai xian yan 	太显眼	c=1 d=0.557106 t=652
+tan hua jian 	谈话间	c=1 d=0.0608101 t=652
+ti qian 	提前	c=0 d=0.0366045 t=652
+ti ta men 	替他们	c=0 d=0.0755784 t=652
+tiao 	挑	c=0 d=0.0144424 t=652
+tiao ban 	跳板	c=1 d=0.311923 t=652
+tiao da zhi cheng zan 	挑大指称赞	c=1 d=0.145148 t=652
+tie zi 	帖子	c=1 d=0.268832 t=652
+ting dao 	听到	c=1 d=0.904837 t=652
+tong hang 	同行	c=0 d=0.0362402 t=652
+tong xue 	同学	c=0 d=0.00495388 t=652
+tong xue men 	同学们	c=0 d=0.00566989 t=652
+tu ran xiang dao 	突然想到	c=1 d=0.331211 t=652
+wan er 	玩儿	c=1 d=0.839457 t=652
+wan mei de 	完美的	c=0 d=0.00862936 t=652
+wan mei de gou le 	完美的勾勒	c=1 d=0.0867261 t=652
+wang 	往	c=0 d=0.0878095 t=652
+wang hui 	往回	c=0 d=0.0299692 t=652
+wang hui zhui su 	往回追溯	c=1 d=0.301194 t=652
+wei 	微	c=1 d=0.965605 t=652
+wei fa luan ji 	违法乱纪	c=1 d=0.456015 t=652
+wei shen me 	为什么	c=1 d=0.19593 t=652
+wei xie 	微泄	c=1 d=0.0958472 t=652
+wen chang wen duan 	问长问短	c=1 d=0.0623495 t=652
+wen guo 	问过	c=1 d=0.491644 t=652
+wen ni 	问你	c=1 d=0.548812 t=652
+wo 	我	c=13 d=6.77379 t=652
+wo cai 	我才	c=1 d=0.744532 t=652
+wo dang nian 	我当年	c=1 d=0.0668703 t=652
+wo de zui de ren duo 	我得罪的人多	c=1 d=0.970446 t=652
+wo hui rang 	我会让	c=1 d=0.408608 t=652
+wo men 	我们	c=0 d=0.0726639 t=652
+wo men ti qian zhen dui 	我们提前针对	c=1 d=0.367879 t=652
+wo zhe 	我这	c=0 d=0.0951229 t=652
+wu bai qiang 	五百强	c=0 d=0.0060205 t=652
+wu bai qiang gong si shi xi 	五百强公司实习	c=1 d=0.0605068 t=652
+wu yu 	无语	c=1 d=0.327915 t=652
+xi tong 	系统	c=3 d=0.327678 t=652
+xia 	下	c=0 d=0.0946485 t=652
+xia ba 	下巴	c=0 d=0.0927743 t=652
+xian fang dao 	先放到	c=1 d=0.0488012 t=652
+xian shi de 	显示的	c=0 d=0.029671 t=652
+xian xi de yao shen 	纤细的腰身	c=1 d=0.0893673 t=652
+xian zai kai shi 	现在开始	c=0 d=0.0755784 t=652
+xian zai kai shi ti ta men 	现在开始替他们	c=1 d=0.759572 t=652
+xian zhi 	限制	c=1 d=0.112478 t=652
+xiang 	向	c=1 d=0.13466 t=652
+xiang 	想	c=1 d=0.344728 t=652
+xiang rang 	想让	c=1 d=0.25284 t=652
+xiang zuo 	想做	c=0 d=0.0339596 t=652
+xiao he shuang pin 	小鹤双拼	c=1 d=0.0459593 t=652
+xiao le xiao 	笑了笑	c=1 d=0.694197 t=652
+xiao mo 	小莫	c=1 d=0.429557 t=652
+xiao sheng shuo 	小声说	c=1 d=0.0963276 t=652
+xiao shi 	小事	c=0 d=0.0315058 t=652
+xiao xin 	小心	c=1 d=0.319057 t=652
+xiao xin de 	小心地	c=0 d=0.0666977 t=652
+xiao zhao 	小昭	c=3 d=0.163996 t=652
+xiao zhe 	笑着	c=1 d=0.136695 t=652
+xin pian 	芯片	c=1 d=0.891366 t=652
+xin xi 	信息	c=1 d=0.105928 t=652
+xin yang nan nai 	心痒难耐	c=1 d=0.946485 t=652
+xing ming 	姓名	c=1 d=0.103312 t=652
+xing qu 	兴趣	c=1 d=0.869358 t=652
+xiong bu 	胸部	c=1 d=0.0889216 t=652
+xiong di 	兄弟	c=0 d=0.0733447 t=652
+xiu chang 	修长	c=2 d=0.156165 t=652
+xiu shen 	修身	c=1 d=0.0812682 t=652
+xue sheng men 	学生们	c=1 d=0.0584257 t=652
+yan jing 	眼睛	c=2 d=0.986369 t=652
+yan jiu yuan 	研究院	c=1 d=0.15259 t=652
+yan qian 	眼前	c=1 d=0.0702988 t=652
+yan qiao 	颜桥	c=1 d=0.0699482 t=652
+yan su 	严肃	c=0 d=0.0474734 t=652
+yan zhi 	颜值	c=1 d=0.0561348 t=652
+yang 	扬	c=0 d=0.0927743 t=652
+yang guang 	阳光	c=1 d=0.07502 t=652
+yao 	要	c=2 d=1.25402 t=652
+yao tou 	摇头	c=1 d=0.14808 t=652
+yao yao tou 	摇摇头	c=1 d=0.995012 t=652
+ye 	也	c=4 d=1.54528 t=652
+ye bu 	也不	c=0 d=0.0680451 t=652
+ye hen 	也很	c=1 d=0.120633 t=652
+ye mei 	也没	c=0 d=0.00672055 t=652
+ye mei bei shao mo hei 	也没被烧抹黑	c=1 d=0.0675424 t=652
+yi 	一	c=1 d=0.265525 t=652
+yi bu fen 	一部分	c=1 d=0.0531307 t=652
+yi ding 	一定	c=2 d=1.26379 t=652
+yi ding bu yi ban 	一定不一般	c=1 d=0.860708 t=652
+yi ge 	一个	c=1 d=0.242926 t=652
+yi ji 	以及	c=1 d=0.0898153 t=652
+yi jia 	一家	c=0 d=0.0588605 t=652
+yi jian 	一件	c=1 d=0.814591 t=652
+yi li 	一礼	c=1 d=0.878095 t=652
+yi liang 	一亮	c=1 d=0.918512 t=652
+yi shuang 	一双	c=2 d=0.163912 t=652
+yi tao 	一套	c=0 d=0.0831104 t=652
+yi xia 	一下	c=2 d=0.219865 t=652
+yi yang xia ba 	一扬下巴	c=1 d=0.932394 t=652
+yi yi sheng hui 	熠熠生辉	c=1 d=0.0761538 t=652
+yin mi 	隐秘	c=0 d=0.0669616 t=652
+yin shang 	殷商	c=1 d=0.0588208 t=652
+yin shang ruan jian 	殷商软件	c=1 d=0.0518189 t=652
+yin wei 	因为	c=1 d=0.0558548 t=652
+ying gai 	应该	c=5 d=1.24031 t=652
+ying gai shi 	应该是	c=0 d=0.0360595 t=652
+ying gai shi wo men de 	应该是我们的	c=1 d=0.362402 t=652
+yong 	用	c=0 d=0.0680451 t=652
+yong cai 	庸才	c=0 d=0.00678809 t=652
+you 	有	c=1 d=0.980264 t=652
+you dian 	有点	c=1 d=0.2196 t=652
+you dian jing ya 	有点惊讶	c=1 d=0.286505 t=652
+you ji jian shi 	有几件事	c=1 d=0.465334 t=652
+you mei you wen ti 	有没有问题	c=1 d=0.529935 t=652
+you ren 	有人	c=3 d=0.614669 t=652
+you xie 	有些	c=1 d=0.313486 t=652
+you ya 	优雅	c=1 d=0.0800583 t=652
+you yi 	有一	c=0 d=0.00590129 t=652
+you yi ge ao man 	有一个傲慢	c=1 d=0.0593087 t=652
+yuan dian 	远点	c=1 d=0.256661 t=652
+yue 	越	c=1 d=0.23457 t=652
+zai 	在	c=2 d=0.232922 t=652
+zai yan jiu 	在研究	c=1 d=0.802519 t=652
+zan men 	咱们	c=0 d=0.0733447 t=652
+zan men zi ji ren 	咱们自己人	c=1 d=0.463013 t=652
+zan shi 	暂时	c=1 d=0.0483156 t=652
+zao ren 	遭人	c=0 d=0.00678809 t=652
+zeng 	增	c=0 d=0.0923116 t=652
+zhan ju zhe 	占据着	c=0 d=0.0319819 t=652
+zhan ju zhe dao de zhi gao dian 	占据着道德制高点	c=1 d=0.321422 t=652
+zhan lan 	湛蓝	c=1 d=0.071719 t=652
+zhan qi shen lai 	站起身来	c=1 d=0.647265 t=652
+zhang yan 	张岩	c=14 d=4.01316 t=652
+zhang yan zuo xia 	张岩坐下	c=1 d=0.394554 t=652
+zhao pian 	照片	c=1 d=0.267135 t=652
+zhao pian shang 	照片上	c=0 d=0.025924 t=652
+zhao pian shang nv sheng hai da le ma 	照片上女生还打了码	c=1 d=0.26054 t=652
+zhe 	着	c=0 d=0.0865022 t=652
+zhe 	这	c=4 d=0.64943 t=652
+zhe li 	这里	c=1 d=0.0492917 t=652
+zhe li mian 	这里面	c=1 d=0.527292 t=652
+zhe liang tian 	这两天	c=0 d=0.0162026 t=652
+zhe liang tian de 	这两天的	c=1 d=0.162838 t=652
+zhe me 	这么	c=0 d=0.0603663 t=652
+zhe me dian 	这么点	c=0 d=0.0315058 t=652
+zhe me xiao xin 	这么小心	c=1 d=0.283654 t=652
+zhe wei xiong di 	这位兄弟	c=0 d=0.0918512 t=652
+zhe wei xiong di zhen hui 	这位兄弟真会	c=1 d=0.923116 t=652
+zhe yang 	这样	c=1 d=0.402524 t=652
+zhe yang de shi 	这样的事	c=1 d=0.980199 t=652
+zhe yi jian shi 	这一件事	c=0 d=0.0339596 t=652
+zhen 	真	c=2 d=1.89299 t=652
+zhen dui 	针对	c=1 d=0.25206 t=652
+zhen hui 	真会	c=0 d=0.0918512 t=652
+zheng chang 	正常	c=1 d=0.188247 t=652
+zheng zhong 	郑重	c=1 d=0.201897 t=652
+zhi 	只	c=1 d=0.323344 t=652
+zhi 	直	c=1 d=0.147342 t=652
+zhi dao 	知道	c=1 d=0.522046 t=652
+zhi ru 	植入	c=1 d=0.88692 t=652
+zhi se 	之色	c=0 d=0.0927743 t=652
+zhi shao 	至少	c=0 d=0.0305746 t=652
+zhi shao jing guo 	至少经过	c=1 d=0.307279 t=652
+zhi sheng xia 	只剩下	c=1 d=0.156453 t=652
+zhi shi 	只是	c=3 d=1.19933 t=652
+zhi shuo 	直说	c=1 d=0.470011 t=652
+zhi yao 	只要	c=1 d=0.11584 t=652
+zhi yao bu wei fa luan ji 	只要不违法乱纪	c=1 d=0.0672055 t=652
+zhi yu 	至于	c=0 d=0.0321422 t=652
+zhong jian 	中间	c=0 d=0.0313486 t=652
+zhong jian hai jing guo le an wang 	中间还经过了暗网	c=1 d=0.315058 t=652
+zhong mei nv 	众美女	c=1 d=0.0510474 t=652
+zhong wen 	中文	c=0 d=0.0117655 t=652
+zhong wen ju ran 	中文居然	c=1 d=0.118245 t=652
+zhong zu 	种族	c=1 d=0.111917 t=652
+zhu yi 	注意	c=2 d=0.857429 t=652
+zhua dao 	抓到	c=1 d=0.634448 t=652
+zhuan ye 	专业	c=1 d=0.360595 t=652
+zhui su 	追溯	c=0 d=0.0299692 t=652
+zhui zong 	追踪	c=0 d=0.0279431 t=652
+zi ji 	自己	c=0 d=0.0548812 t=652
+zou jin ban gong shi 	走进办公室	c=1 d=0.0655462 t=652
+zui chu 	最初	c=0 d=0.0292293 t=652
+zui chu ba zhao pian kuo san kai 	最初把照片扩散开	c=1 d=0.293758 t=652
+zui huai da suan 	最坏打算	c=1 d=0.71177 t=652
+zui jin 	最近	c=1 d=0.794534 t=652
+zuo 	做	c=2 d=1.09111 t=652
+zuo xia 	坐下	c=0 d=0.0392586 t=652
+ṽ 	V	c=1 d=0.154124 t=652

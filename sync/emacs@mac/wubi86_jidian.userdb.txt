@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	wubi86_jidian
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	2
+#@/user_id	emacs@mac
+k 	中	c=1 d=1 t=2
+p 	这	c=1 d=0.995012 t=2

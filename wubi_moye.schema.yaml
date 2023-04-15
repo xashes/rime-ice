@@ -1,0 +1,83 @@
+# Rime wubi moye schema
+# encoding: utf-8
+
+
+# 方案说明
+schema:
+  schema_id: wubi_moye
+  name: 莫邪五笔
+  version: "1.0"
+  author:
+    - xashes
+  description: |
+    莫邪五笔
+  dependencies:
+    - pinyin_simp
+
+switches:
+#  - name: ascii_mode
+#    reset: 0
+#    states: [ 中文, 英文 ]
+  - name: zh_trad
+    reset: 0    # 初始状态为 0: 简 -> 简 1: 简 -> 繁
+    states: [ 简体, 繁体 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: extended_charset
+    states: [ 常用, 扩展 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+    - table_translator@custom_phrase      # 自定义短语
+    - lua_translator@unicode              # Unicode
+    - lua_translator@date_translator # 自定义系统变量输出
+    - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
+  filters:
+    # - simplifier@tradition
+    - simplifier@traditionalize         # 简繁切换
+    - lua_filter@reduce_english_filter  # 降低部分英语单词在候选项的位置
+    - uniquifier                        # 去重
+    # - lua_filter@single_char_first_filter # 单字优先
+#    - lua_filter@single_char_only # 纯单字
+
+reverse_lookup:
+  dictionary: pinyin_simp  # 反查使用的拼音词库
+  prefix: "z"              # 反查前缀，以它为起点
+  suffix: "'"              # 反查后缀，以它为结点
+  tips: [拼音]              # 反查时的提示信息
+
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+key_binder:
+  import_preset: default
+
+# 处理符合特定规则的输入码，如网址、反查
+recognizer:
+  import_preset: default  # 从 default.yaml 继承通用的
+  patterns:  # 再增加方案专有的：
+    punct: "^v([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_v.yaml 的 symbols
+    reverse_lookup: "^z[a-z]*'?$" # 反查词条的正则
+    unicode: "^U[a-f0-9]+"            # 响应 Unicode

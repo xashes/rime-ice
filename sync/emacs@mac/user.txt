@@ -1,0 +1,1985 @@
+# Rime table
+#@/db_name	user
+#@/db_type	tabledb
+#@/rime_version	1.7.3
+#@/tick	8947
+工	a	3
+茅	acbt	1
+藏匿	adaa	1
+苦	adf	1
+菲	adj	2
+期待	adtf	1
+其	adw	1
+其他	adwb	4
+散发	aent	1
+甘心	afny	1
+七	ag	2
+牙	ah	1
+颐	ahkm	1
+卧	ahnh	2
+牙	aht	1
+邪	ahtb	8
+东	ai	2
+落英	aiam	2
+东西	aisg	1
+落	ait	6
+东方	aiyy	8
+莫	ajd	28
+草	ajj	2
+慕容	ajpw	1
+蓝色	ajqc	1
+鹊	ajqg	1
+莫名	ajqk	1
+蓝	ajt	26
+勤	akgl	1
+功	al	4
+功能	alce	1
+功夫	alfw	9
+莲	alp	2
+苏醒	alsg	2
+苏	alw	2
+黄莺	amap	1
+英	amd	4
+荒山野岭	amjm	2
+恐惧	amnh	4
+黄金	amqq	1
+黄	amw	5
+英文	amyy	1
+世界	anlw	2
+巨头	anud	1
+营业额	aopt	1
+劳烦	apod	1
+蓉	apw	4
+区	aq	1
+警戒	aqaa	1
+菊花	aqaw	1
+获得	aqtj	1
+董秘	attn	3
+攻	aty	1
+燕	au	1
+薪水	auii	1
+菩提	aurj	1
+薪	ausr	1
+薪资	auuq	1
+切	av	3
+切换	avrq	1
+葵	awgd	1
+茶	aws	2
+花香	awtj	2
+花瓶	awua	1
+花瓣	awur	1
+花	awx	34
+药	ax	1
+荒谬	ayyn	1
+了	b	204
+子	bb	27
+取	bc	2
+随	bde	1
+随时	bdjf	1
+随机	bdsm	1
+阴	be	3
+耳环	bggg	1
+耳	bgh	1
+孙	bi	3
+阳	bj	2
+职	bk	1
+职业	bkog	1
+职位	bkwu	3
+出	bm	34
+出现	bmgm	6
+出力	bmlt	1
+也	bn	67
+院	bpf	16
+院长	bpta	2
+耽误	bpyk	1
+隐	bq	2
+聊	bqt	2
+陷	bqv	2
+聪明	buje	1
+陪	buk	4
+联手	burt	1
+险	bwg	1
+附近	bwrp	1
+除	bwt	4
+防	by	2
+防止	byhh	1
+以	c	33
+劲	cal	1
+预期	cbad	1
+双	cc	2
+又	ccc	19
+桑	cccs	1
+双眼	cchv	1
+参	cde	1
+参与	cdgn	1
+参合	cdwg	1
+能	ce	36
+通过	cefp	2
+能源	ceid	1
+能力	celt	5
+通俗	ceww	1
+对	cf	28
+圣	cff	8
+对手	cfrt	1
+对付	cfwf	1
+劝	cl	1
+观察	cmpw	1
+马	cn	1
+允许	cqyt	2
+艰苦	cvad	1
+难	cw	2
+难免	cwqk	1
+难道	cwut	1
+在	d	75
+左	da	1
+左右	dadk	1
+码	dcg	2
+大	dd	30
+磊	ddd	1
+大法	ddif	1
+大师	ddjg	1
+厉害	ddpd	9
+大家	ddpe	1
+大概	ddsv	1
+胡	de	1
+夺取	dfbc	1
+唇	dfek	1
+压制	dfrm	1
+压	dfy	3
+三	dg	6
+感受	dgep	2
+感到	dggc	2
+古	dgh	2
+感觉	dgip	5
+感叹	dgkc	2
+石器	dgkk	1
+感	dgkn	2
+研究	dgpw	9
+石	dgtg	2
+感谢	dgyt	1
+存	dhb	2
+蹙	dhih	1
+夏	dht	1
+百	dj	4
+非	djd	3
+非但	djwj	1
+历	dl	1
+面	dm	8
+而且	dmeg	4
+布	dmh	2
+而	dmj	4
+面前	dmue	5
+面试	dmya	2
+成	dn	14
+尤其	dnad	1
+尴尬	dndn	2
+迈	dnp	1
+盛气	dnrn	1
+万	dnv	2
+成就	dnyi	1
+灰	do	1
+达	dp	1
+碗	dpq	2
+确	dqe	1
+确实	dqpu	6
+砍	dqw	1
+原	dr	4
+原则	drmj	1
+愿意	druj	4
+愿望	dryn	1
+厅	dsk	1
+奇	dskf	2
+奇怪	dsnc	2
+帮	dt	3
+帮派	dtir	1
+帮忙	dtny	1
+故意	dtuj	1
+帮会	dtwf	1
+肆	dv	1
+蠢	dwjj	2
+龙	dx	22
+龙女	dxvv	3
+袭	dxy	2
+太	dy	12
+碎	dyw	2
+胡说八道	dywu	1
+态度	dyya	4
+有	e	98
+服	eb	1
+服务	ebtl	1
+盈盈	ecec	22
+盈	ecl	2
+朋友	eedc	3
+月	eee	21
+月	eeee	1
+貌	eerq	1
+脚	efcb	1
+脚踝	efkh	1
+且	eg	1
+腮	elny	1
+股	emc	7
+股票	emsf	1
+受	epc	5
+逐步	ephi	1
+逐	epi	1
+逐渐	epil	1
+受害	eppd	1
+受伤	epwt	4
+胸	eq	2
+脆	eqd	2
+胸膛	eqei	1
+胸口	eqkk	1
+胸部	equk	1
+脾气	errn	3
+膝	esw	3
+用	et	20
+胜	etg	3
+受益匪浅	euai	1
+胖	euf	10
+腿	eve	1
+腿	evep	1
+脸	ew	7
+脸	ewg	2
+脸色	ewqc	2
+及时	eyjf	1
+地	f	49
+戴	falw	1
+截	faw	1
+支	fc	1
+却	fcb	1
+动	fcl	12
+劫	fcln	2
+支持	fcrf	1
+运行	fctf	1
+去	fcu	44
+动产	fcut	1
+动作	fcwt	1
+震	fdf	1
+震惊	fdny	1
+需要	fdsv	1
+坛	ffc	1
+封面	ffdm	1
+封	fffy	1
+填充	ffyc	1
+二	fg	6
+博	fge	1
+干脆	fgeq	1
+干	fggh	6
+十	fgh	11
+雨	fghy	12
+坏	fgi	3
+干涉	fgih	1
+十六	fguy	1
+直	fh	2
+趟	fhi	3
+赶紧	fhjc	5
+趣味	fhkf	1
+起	fhn	39
+真实	fhpu	1
+赵	fhq	1
+直接	fhru	3
+走	fhu	9
+超	fhv	2
+超	fhvk	1
+真	fhw	13
+起伏	fhwd	1
+霄	fie	17
+未	fii	2
+示意	fiuj	1
+求	fiy	2
+救	fiyt	3
+进	fj	5
+朝	fje	1
+露出	fkbm	1
+喜欢	fkcq	1
+露	fkhk	3
+喜	fku	1
+协助	fleg	1
+南	fm	4
+击败	fmmt	1
+击退	fmve	1
+声名	fnqk	1
+声	fnr	12
+志	fnu	1
+卖	fnud	2
+声音	fnuj	5
+赤	fo	16
+过	fp	37
+过错	fpqa	1
+过程	fptk	1
+索	fpx	1
+无	fq	13
+无奈	fqdf	2
+元素	fqgx	2
+无法	fqif	1
+无愧	fqnr	1
+无数	fqov	1
+远	fqp	4
+无语	fqyg	2
+才	ft	19
+教	ftbt	27
+考虑	ftha	1
+老婆	ftih	21
+雾水	ftii	1
+者	ftj	1
+都	ftjb	49
+考核	ftsy	2
+老总	ftuk	1
+老公	ftwc	1
+老	ftx	2
+教主	ftyg	1
+增	fu	1
+垃圾	fufe	3
+雪	fv	2
+规划	fwaj	1
+替	fwf	2
+规矩	fwtd	1
+一	g	140
+开	ga	11
+武功	gaal	5
+形	gae	2
+武	gah	4
+型	gajf	1
+形容	gapw	1
+形象	gaqj	1
+开始	gavc	1
+到	gc	73
+致函	gcbi	1
+至	gcf	2
+致	gcft	1
+至少	gcit	1
+到底	gcyq	1
+天	gd	22
+天下	gdgh	2
+表达	gedp	1
+青龙	gedx	1
+青	gef	1
+表示	gefi	5
+表现	gegm	1
+表情	geng	1
+静	geq	1
+表哥	gesk	3
+于	gf	10
+玩意	gfuj	2
+五	gg	5
+王	ggg	5
+五毒	gggx	1
+五笔	ggtt	2
+下	gh	42
+下落	ghai	1
+下巴	ghcn	1
+正	ghd	14
+正常	ghip	2
+正经	ghxc	1
+还	gip	74
+否认	giyw	1
+更	gjq	9
+事	gk	19
+带来	gkgo	1
+副	gkl	2
+事情	gkng	1
+带	gkp	15
+副本	gksg	5
+事件	gkwr	2
+现	gm	27
+再	gmf	11
+瑞士	gmfg	1
+现时	gmjf	1
+刺杀	gmqs	1
+两	gmww	21
+与	gn	5
+来	go	92
+来历	godl	2
+死	gqx	5
+平	gu	2
+平平	gugu	1
+平时	gujf	1
+平手	gurt	1
+平息	guth	1
+平利	gutj	1
+毒药	gxax	1
+毒	gxgu	4
+素	gxi	1
+素问	gxuk	2
+玉	gy	15
+班	gyt	1
+玉女	gyvv	1
+上	h	56
+虎	ha	1
+虎	ham	1
+虑	han	2
+虚弱	haxu	1
+虔诚	hayd	1
+颇	hcd	1
+肯定	hepg	4
+瞬间	heuj	1
+止	hh	1
+目的	hhrq	1
+目前	hhue	2
+步	hi	1
+频	hid	1
+叔叔	hihi	2
+桌面	hjdm	1
+桌	hjs	2
+占	hk	1
+战	hka	1
+战胜	hket	1
+战略	hklt	3
+点	hko	24
+占据	hkrn	2
+战斗	hkuf	1
+瞎	hp	3
+瞎	hpd	1
+睁	hqv	1
+瞟	hsf	1
+眼	hv	6
+眼睛	hvhg	5
+眼光	hviq	1
+眼神	hvpy	5
+眼镜	hvqu	1
+眼前	hvue	1
+眼线	hvxg	1
+眼熟	hvyb	1
+齿	hwb	1
+此	hx	8
+些	hxf	10
+此时	hxjf	2
+柴	hxs	1
+些许	hxyt	1
+不	i	177
+江湖	iaid	5
+汉	ic	1
+尖	id	1
+源	idr	2
+溪流	ieiy	1
+溪	iex	1
+法	if	2
+潮	ifj	3
+清	ige	1
+清脆	igeq	1
+清寒	igpf	1
+清楚	igss	1
+小	ih	103
+波	ihc	1
+婆	ihcv	5
+涉	ihi	1
+婆婆	ihih	2
+小小	ihih	1
+小船	ihte	1
+水	ii	27
+水	iii	2
+水果	iijs	2
+水解	iiqe	1
+消息	iith	7
+温和	ijtk	1
+渐渐	ilil	6
+渐	ilr	1
+没	im	55
+滑	ime	1
+沿	imk	2
+尚	imkf	1
+沿路	imkh	1
+测试	imya	1
+泥潭	inis	1
+小心翼翼	innn	1
+清心寡欲	inpw	1
+淡淡	ioio	2
+淡	ioo	2
+学	ip	20
+深浅	ipig	1
+堂	ipkf	2
+沉思	ipln	6
+常见	ipmq	1
+觉	ipmq	2
+掌握	iprn	1
+学校	ipsu	1
+学生	iptg	1
+觉得	iptj	5
+堂主	ipyg	1
+光	iq	2
+光芒	iqay	1
+泡	iqn	1
+派	ire	6
+激动	irfc	1
+激活	irit	1
+酒	isgg	1
+淅沥	isid	1
+酒吧	iskc	4
+漂亮	isyp	9
+少	it	4
+活	itd	6
+泛	itp	3
+海鲜	itqg	1
+少林	itss	1
+洋	iu	8
+滋润	iuiu	1
+当	iv	5
+当面	ivdm	1
+兴	iw	1
+兴奋	iwdl	1
+兴趣	iwfh	2
+涨	ixt	2
+注	iy	1
+流	iyc	2
+漩涡	iyik	1
+浪费	iyxj	3
+游说	iyyu	1
+是	j	168
+暴走	jafh	1
+晓	jat	1
+暴怒	javc	1
+暴	jaw	1
+最	jb	12
+最近	jbrp	3
+紧	jc	2
+紧接	jcru	4
+紧张	jcxt	1
+明	je	6
+明显	jejo	5
+明白	jerr	1
+时	jf	8
+里	jfd	34
+时间	jfuj	1
+时代	jfwa	1
+时候	jfwh	3
+量	jg	2
+师	jgm	1
+师父	jgwq	1
+早	jh	2
+晃	jiq	2
+日月	jjee	1
+日	jjjj	3
+日记	jjyn	35
+遇	jm	5
+映	jmd	1
+遇到	jmgc	1
+电脑	jney	1
+电话	jnyt	2
+显	jo	3
+显示	jofi	5
+蛇	jpx	1
+晚	jq	1
+易	jqr	1
+果	js	1
+果断	json	1
+果然	jsqd	3
+昨	jt	1
+蜂	jtd	3
+星	jtg	5
+昨天	jtgd	1
+蜂蜜	jtpn	1
+览	jtyq	1
+鉴	jtyq	1
+暗	ju	1
+归	jv	1
+昭	jvk	22
+照	jvko	1
+归属	jvnt	1
+照片	jvth	2
+蛤	jwg	1
+景点	jyhk	1
+影响	jykt	3
+中	k	15
+嘞	kaf	1
+哎呀	kaka	1
+喵	kal	4
+啊	kb	26
+啊	kbs	1
+吧	kc	25
+吗	kcg	25
+叹息	kcth	1
+顺	kd	1
+喊	kdgt	4
+顺便	kdwg	1
+吸	ke	1
+吐	kfg	1
+味	kfi	2
+嘟	kftb	1
+味道	kfut	7
+咦	kgx	3
+嘴唇	khdf	1
+路过	khfp	1
+蹦	khme	1
+跑	khq	5
+跌	khr	1
+路	kht	1
+足	khu	3
+跟	khv	23
+嘴	khx	7
+嘴	khxe	1
+喝	kjq	5
+虽然	kjqd	6
+器	kkd	1
+哭	kkdu	1
+口	kkkk	11
+叽叽喳喳	kkkk	1
+口吻	kkkq	1
+口气	kkrn	4
+另	kl	1
+嗯	kldn	1
+别	klj	25
+嘿嘿	klkl	2
+员	km	1
+喘	kmd	1
+喘息	kmth	1
+呐	kmw	1
+叫	kn	10
+呢	knx	13
+兄	kqb	4
+唤	kqm	1
+兄弟	kqux	1
+吹	kqw	1
+听	kr	25
+啪	krrg	1
+听候	krwh	1
+听说	kryu	1
+呆	ks	1
+叮	ksh	2
+唾	ktg	1
+咱	kth	2
+呼唤	ktkq	1
+响	ktm	2
+吃	ktn	2
+哦	ktr	1
+咬	kuq	7
+哪	kv	10
+只	kw	15
+唯一	kwgg	1
+吩咐	kwkw	1
+哈哈	kwkw	3
+哼	kyb	1
+嘛	kys	2
+国	l	10
+轻	lc	11
+轻松	lcsw	2
+因	ld	2
+轩	lf	1
+转	lfn	7
+围	lfnh	2
+黑	lfo	12
+围裙	lfpu	1
+黑色	lfqc	1
+园林	lfss	1
+转盘	lfte	2
+畏	lge	1
+辅	lgey	1
+四	lh	7
+加	lk	8
+回	lkd	12
+加速	lkgk	1
+加紧	lkjc	1
+回归	lkjv	1
+回帖	lkmh	1
+加快	lknn	1
+回想	lksh	2
+回答	lktw	2
+男	ll	16
+男生	lltg	2
+思	ln	1
+思考	lnft	2
+边	lp	9
+连带	lpgk	1
+连	lpk	6
+连忙	lpny	1
+软	lqw	2
+软件	lqwr	8
+暂	lrj	2
+困惑	lsak	1
+力	lt	6
+图画	ltgl	1
+力量	ltjg	2
+圈	lud	1
+思前想后	lusr	1
+办	lw	6
+办法	lwif	2
+界	lwj	2
+输入	lwty	1
+办公	lwwc	1
+罚款	lyff	1
+同	m	16
+典型	maga	1
+凤凰	mcmr	18
+岩	mdf	40
+崖	mdff	6
+骨	me	1
+崩塌	mefj	1
+财	mf	2
+崶	mfff	1
+周	mfk	1
+财富	mfpg	1
+财	mft	1
+赌	mftj	1
+同	mg	2
+同学	mgip	1
+同时	mgjf	1
+由	mh	2
+贴切	mhav	1
+贝	mhny	1
+由衷	mhyk	1
+赐	mjq	1
+册	mm	1
+山	mmm	1
+山	mmmm	1
+崇拜	mprd	1
+风	mq	17
+见	mqb	9
+刚	mqj	25
+风景	mqjy	1
+岁	mqu	5
+见识	mqyk	1
+几	mt	13
+巍然	mtqd	1
+败	mty	8
+内	mw	7
+内幕	mwaj	1
+内情	mwng	1
+内容	mwpw	3
+民	n	1
+民	na	2
+懂	nat	5
+怪异	ncna	1
+居士	ndfg	1
+忧虑	ndha	1
+居然	ndqd	3
+导	nf	1
+愤	nfa	1
+层	nfc	2
+丑闻	nfub	1
+怀	ng	4
+情节	ngab	2
+屋	ngc	2
+情	nge	3
+怀	ngi	21
+情景	ngjy	1
+情况	nguk	5
+情绪	ngxf	2
+收	nh	2
+眉	nhd	2
+收服	nheb	2
+眉梢	nhsi	1
+收敛	nhwg	2
+慢慢	njnj	1
+避	nk	1
+辟邪	nkah	1
+愣	nly	2
+快速	nngk	1
+己	nngn	1
+书	nnh	5
+已	nnnn	4
+快	nnw	6
+已经	nnxc	13
+怕	nr	5
+必须	nted	1
+性	ntg	2
+性格	ntst	4
+性命	ntwg	1
+改	nty	2
+习	nu	3
+买	nudu	1
+飞	nui	2
+恰	nwgk	2
+怜	nwyc	4
+心	ny	20
+心眼	nyhv	1
+忙活	nyit	1
+惊	nyiy	1
+心里	nyjf	1
+心跳	nykh	2
+心口	nykk	1
+惊叫	nykn	1
+心思	nyln	3
+惊异	nyna	1
+忙	nynn	8
+尽	nyu	1
+心经	nyxc	2
+惊疑	nyxt	3
+迟疑	nyxt	1
+惊讶	nyya	1
+为	o	20
+糊	ode	1
+精	oge	1
+精致	oggc	1
+糟糕	ogou	1
+粘	oh	1
+烟火	oloo	1
+断	on	2
+熠	onrg	1
+火	ooo	1
+迷	op	2
+炸	oth	1
+粒子	oubb	1
+数据	ovrn	3
+数	ovt	5
+这	p	148
+字	pb	12
+字数	pbov	1
+害	pd	1
+宠	pdx	1
+家	pe	3
+守	pf	1
+完成	pfdn	1
+寒玉	pfgy	1
+寒	pfj	1
+守寡	pfpd	1
+完	pfq	5
+完全	pfwg	2
+完毕	pfxx	1
+定	pg	12
+室	pgc	3
+宝典	pgma	1
+写	pgn	8
+寡不敌众	pgtw	2
+宝	pgy	3
+宵	pi	1
+冥	pju	2
+审美	pjug	1
+宫	pk	26
+宫	pkk	12
+官	pnh	1
+蜜蜡	pnja	1
+蜜	pntj	1
+之	pp	15
+之前	ppue	1
+额外	ptqh	1
+客气	ptrn	2
+实	pu	4
+实	pud	1
+袜	pug	1
+实现	pugm	1
+补	puh	1
+被	puhc	8
+裸	pujs	1
+实力	pult	3
+实习	punu	10
+初	puv	4
+实体	puws	1
+实施	puyt	1
+安	pv	27
+安排	pvrd	3
+案值	pvwf	3
+安全	pvwg	3
+安保	pvwk	1
+空	pw	2
+穿	pwat	2
+宿	pwdj	1
+穿越	pwfh	3
+察觉	pwip	1
+容易	pwjq	2
+窃听	pwkr	1
+帘	pwm	2
+突然	pwqd	12
+窗外	pwqh	1
+窗	pwt	1
+穴	pwu	1
+究竟	pwuj	1
+空间	pwuj	1
+容颜	pwut	1
+究	pwv	1
+神功	pyal	1
+礼貌	pyee	1
+祸水	pyii	1
+神	pyj	21
+神	pyjh	1
+视	pym	1
+神情	pyng	1
+视角	pyqe	2
+神秘	pytn	2
+神话	pyyt	1
+我	q	173
+错	qaj	4
+色	qc	5
+色彩	qces	3
+钯	qcn	1
+然	qd	1
+危险	qdbw	2
+然后	qdrg	7
+角	qe	9
+触感	qedg	2
+触碰	qedu	1
+解决	qeun	3
+解	qev	6
+针	qf	1
+印花	qgaw	4
+鲜花	qgaw	2
+鲜艳	qgdh	1
+印象	qgqj	1
+外	qh	5
+外貌	qhee	1
+外甥	qhtg	11
+乐	qi	1
+名	qk	3
+句	qkd	2
+名字	qkpb	2
+免	qkq	1
+够	qkqq	1
+勉强	qkxk	1
+负责	qmgm	1
+馒	qnjc	2
+饭	qnr	1
+包括	qnrt	2
+馒头	qnud	1
+多	qq	31
+多少	qqit	2
+多数	qqov	1
+金	qqqq	1
+多谢	qqyt	1
+忽然	qrqd	3
+杀气	qsrn	1
+杀	qsu	2
+杀伐	qswa	1
+儿	qt	28
+猫	qtal	1
+猛	qtbl	3
+犹豫	qtcb	1
+夕	qtny	1
+匀	qu	2
+争取	qvbc	1
+银	qve	3
+急	qvn	6
+皱眉	qvnh	1
+急忙	qvny	1
+争锋	qvqt	1
+欠	qw	1
+铃铛	qwqi	1
+久	qy	3
+久别	qykl	1
+岛	qynm	2
+留	qyvl	6
+的	r	253
+找	ra	18
+措	raj	1
+摸	rajd	3
+描写	rapg	1
+拱	raw	2
+拒绝	raxq	1
+报道	rbut	2
+反	rc	1
+反而	rcdm	2
+反正	rcgh	3
+抬	rck	2
+把	rcn	23
+摊	rcw	1
+反应	rcyi	1
+拔	rdc	1
+摇	rer	2
+摇摇	rere	3
+持	rff	1
+抚	rfq	2
+技术	rfsy	3
+扶	rfw	1
+后	rg	17
+搏	rgef	1
+捂	rgkg	1
+岳	rgm	1
+后怕	rgnr	1
+皇宫	rgpk	1
+抹	rgs	4
+兵	rgw	1
+年	rh	12
+看	rhf	69
+年龄	rhhw	1
+掉	rhj	1
+年轻	rhlc	2
+挑	riq	1
+挑选	ritf	1
+挡	riv	2
+提	rj	1
+担心	rjny	2
+提醒	rjsg	2
+提供	rjwa	1
+摆	rlf	9
+抽	rm	7
+制止	rmhh	1
+制	rmhj	1
+抽空	rmpw	1
+缺乏	rmtp	1
+投资	rmuq	1
+抽奖	rmuq	4
+所	rn	4
+气	rnb	7
+氢	rnc	2
+据	rnd	1
+扭	rnf	1
+气喘	rnkm	1
+扬	rnr	2
+气势	rnrv	1
+气血	rntl	3
+据说	rnyu	3
+近	rp	4
+控制	rprm	1
+按	rpv	1
+擦	rpwi	2
+换	rq	4
+魅力	rqlt	1
+抱怨	rqqb	1
+捣乱	rqtd	1
+拍	rrg	14
+白	rrr	3
+白皙	rrsr	1
+打	rs	10
+打量	rsjg	1
+打断	rson	1
+打算	rsth	2
+手	rt	18
+托	rta	2
+拖	rtb	1
+搬	rte	2
+插	rtf	3
+挺	rtfp	8
+拖累	rtlx	1
+拉	ru	1
+接受	ruep	1
+拦	ruf	1
+拉	rug	2
+接触	ruqe	1
+接	ruv	7
+挪	rvfb	2
+招	rvk	8
+招呼	rvkt	1
+势力	rvlt	4
+搜捕	rvrg	1
+殷商	rvum	2
+推荐	rwad	1
+失落	rwai	1
+抢	rwb	1
+捡	rwgi	3
+失败	rwmt	1
+推倒	rwwg	1
+推拿	rwwg	1
+失误	rwyk	1
+指责	rxgm	1
+指点	rxhk	2
+指	rxj	9
+拂	rxjh	1
+指导	rxnf	2
+搞	rym	4
+邀	rytp	18
+护送	ryud	1
+要	s	45
+框	sagg	1
+李	sb	6
+极	se	3
+票	sfiu	1
+标	sfiy	1
+楠	sfm	1
+本	sg	14
+本能	sgce	1
+杯	sgi	1
+槽	sgmj	3
+酌情	sgng	1
+醉	sgy	1
+相	sh	4
+相助	sheg	2
+想法	shif	4
+想	shn	43
+想必	shnt	2
+相关	shud	1
+相信	shwy	1
+桃花	siaw	2
+桃	siq	2
+查	sj	1
+查看	sjrh	3
+可	sk	32
+可能	skce	5
+可惜	skna	1
+可怕	sknr	1
+可乐	skqi	4
+机	sm	1
+贾	smu	1
+机会	smwf	1
+杨	snr	2
+柳	sqt	1
+板	src	1
+林	ss	80
+木屋	ssng	3
+梦	ssq	2
+森	sss	1
+木	ssss	6
+格外	stqh	1
+样	su	14
+根	sve	1
+根本	svsg	3
+松	swc	1
+检测	swim	1
+核弹	syxu	1
+和	t	28
+长	ta	17
+长大	tadd	1
+长腿	taev	1
+升	tak	1
+长短	tatd	1
+么	tc	18
+知	td	3
+智能	tdce	1
+甜腻	tdea	1
+短	tdg	1
+乱	tdn	2
+适	tdp	1
+敌	tdt	1
+矢	tdu	1
+敌意	tduj	1
+知道	tdut	18
+敌人	tdww	1
+适应	tdyi	1
+知识	tdyk	2
+盘面	tedm	1
+透露	tefk	1
+盘	tel	6
+般	tem	2
+船	temk	1
+秀气	tern	1
+透气	tern	1
+行	tf	14
+千万	tfdn	2
+造成	tfdn	1
+先进	tffj	3
+等	tffu	13
+徒	tfhy	1
+千	tfk	4
+赞叹	tfkc	1
+靠	tfkd	2
+造	tfkp	1
+毛	tfn	1
+先	tfq	24
+选	tfqp	1
+告诉	tfyr	2
+生	tg	20
+生活	tgit	4
+重	tgj	5
+生日	tgjj	1
+重逢	tgtd	1
+和事佬	tgwf	1
+生命	tgwg	1
+处	th	4
+算	tha	9
+自	thd	9
+自动	thfc	1
+版	thgc	1
+自由	thmh	1
+息	thn	1
+自己	thnn	12
+版本	thsg	1
+怎么	thtc	37
+自从	thww	1
+稍	tie	4
+秒	tit	1
+得	tj	33
+香	tjf	2
+得罪	tjld	1
+复	tjt	11
+各	tk	3
+种	tkh	12
+各种	tktk	1
+血	tld	2
+血色	tlqc	1
+向	tm	7
+身	tmd	8
+躲	tmds	1
+颓丧	tmfu	1
+微	tmg	3
+身边	tmlp	1
+微风	tmmq	1
+身穿	tmpw	1
+微微	tmtm	1
+身份	tmww	2
+筷	tnn	1
+秘书	tnnn	7
+秘密	tnpn	1
+秘籍	tntd	2
+自以为是	tnyj	1
+翻开	toga	1
+翻涌	toic	3
+愁	tonu	5
+管	tp	1
+移	tqq	23
+条	ts	1
+条	tsu	1
+笑	ttd	8
+竹	ttgh	2
+笑话	ttyt	1
+科	tufh	1
+简直	tufh	3
+科技	turf	1
+简单	tuuj	1
+很	tve	31
+箫	tvij	1
+答错	twqa	1
+符合	twwg	1
+答应	twyi	3
+第	tx	19
+每	txg	3
+系统	txxy	18
+入	ty	8
+篱	tyb	1
+往	tyg	2
+自言自语	tyty	1
+产	u	1
+并	ua	2
+闻	ub	2
+闻到	ubgc	1
+疗	ubk	1
+痛苦	ucad	3
+关	ud	1
+差	uda	4
+关切	udav	2
+卷	udbb	1
+状态	uddy	5
+善恶	udgo	1
+着	udh	93
+头	udi	27
+羞	udn	1
+判断	udon	1
+送	udp	14
+关键	udqv	1
+着急	udqv	1
+关系	udtx	2
+状况	uduk	1
+凑	udw	1
+养伤	udwt	1
+状	udy	1
+前	ue	10
+前世	uean	1
+半	uf	3
+兰花	ufaw	1
+兰	uff	1
+装束	ufgk	1
+半晌	ufjt	1
+斗	ufk	3
+凌	ufw	1
+装	ufy	1
+装	ufye	4
+羡慕	ugaj	3
+美	ugdu	2
+美女	ugvv	7
+站	uh	7
+丫	uhk	1
+间	uj	7
+意愿	ujdr	1
+单	ujfj	1
+章	ujj	4
+意味	ujkf	2
+意思	ujln	2
+意	ujn	2
+竟	ujq	1
+意念	ujwy	2
+意识	ujyk	1
+部	uk	1
+问	ukd	15
+总裁	ukfa	1
+冲	ukh	2
+问题	ukjg	6
+总	ukn	26
+兑换	ukrq	3
+斗转星移	uljt	1
+端	umd	1
+决	un	1
+决定	unpg	4
+普通	uoce	1
+普及	uoey	1
+交	uq	3
+奖	uqd	2
+奖励	uqdd	3
+将	uqf	1
+浆	uqi	3
+资源	uqid	2
+资料	uqou	4
+次	uqw	13
+资	uqwm	1
+瓣	ur	1
+瓣	urc	1
+亲	us	5
+亲切	usav	1
+闲	usi	5
+亲密	uspn	1
+新	usr	6
+亲热	usrv	1
+亲自	usth	2
+痴	utdk	1
+颜	utem	2
+道士	utfg	1
+道	uthp	6
+疼	utu	2
+立刻	uuyn	11
+冷静	uwge	1
+冷淡	uwio	1
+准备	uwtl	1
+凝聚	uxbc	1
+慈悲	uxdj	1
+递	uxhp	3
+背景	uxjy	3
+六	uy	3
+门	uyh	21
+凉	uyiy	1
+发	v	21
+姬	vah	3
+好	vb	60
+好奇	vbds	1
+好学	vbip	1
+她	vbn	69
+好处	vbth	1
+好像	vbwq	5
+妈	vc	2
+即	vcb	1
+始	vck	2
+努力	vclt	5
+怒	vcn	3
+即使	vcwg	3
+奴	vcy	2
+姑	vd	4
+姑苏	vdal	1
+姑姑	vdvd	1
+姑娘	vdvy	3
+奶	ve	1
+姐	veg	2
+退	vep	3
+姐妹	vevf	1
+那	vfb	51
+妹子	vfbb	1
+妹	vfi	3
+寻找	vfra	1
+嫣	vgh	6
+录	vi	1
+如	vk	6
+如此	vkhx	1
+如果	vkjs	6
+如何	vkws	1
+舅舅	vlvl	14
+刀	vn	1
+妞	vnf	2
+灵	vo	2
+嫁	vpe	2
+妖	vtd	1
+娇	vtdj	4
+尹	vte	2
+姓	vtg	1
+群	vtk	3
+娇媚	vtvn	1
+嫌	vuv	1
+嫌弃	vuyc	1
+女儿	vvqt	1
+女生	vvtg	4
+女	vvv	25
+忍	vynu	1
+娘	vyv	2
+人	w	73
+他	wb	53
+他们	wbwu	1
+公	wc	11
+公子	wcbb	7
+公司	wcng	13
+仅	wcy	1
+做法	wdif	1
+做	wdt	3
+优美	wdug	1
+伏	wdy	1
+仗	wdyy	1
+仍	we	1
+会	wf	23
+舍	wfk	1
+舒	wfkb	26
+会飞	wfnu	1
+传	wfny	6
+佬	wft	1
+什么	wftc	37
+全	wg	1
+倒	wgc	5
+使劲	wgca	1
+剑	wgi	1
+合法	wgif	1
+剑	wgij	1
+合	wgk	3
+鸽	wgkg	1
+盒	wgkl	2
+使	wgkq	1
+拿	wgkr	4
+登	wgku	1
+俩	wgmw	2
+兮	wgnb	2
+傲	wgqt	2
+个	wh	84
+候	whn	1
+企业	whog	1
+修	wht	1
+候选	whtf	1
+俏	wie	3
+但	wjg	16
+伸	wjh	1
+介绍	wjxv	2
+保持	wkrf	1
+保佑	wkwd	1
+仙境	wmfu	2
+侧	wmj	1
+僻静	wnge	1
+追	wnnp	3
+追杀	wnqs	3
+似乎	wntu	4
+追问	wnuk	1
+倔强	wnxk	1
+似	wny	2
+你	wq	140
+低	wqa	7
+您	wqin	4
+像	wqj	2
+件	wrh	2
+体	wsg	1
+何	wsk	1
+休息	wsth	1
+作	wt	2
+任	wtf	33
+凭	wtfm	1
+伤	wtl	2
+傻	wtlt	1
+凭空	wtpw	1
+八	wty	3
+们	wu	58
+位	wug	9
+分	wv	5
+分别	wvkl	1
+分说	wvyu	1
+从	ww	9
+坐	wwf	10
+偷	wwgj	2
+谷	wwk	1
+欲	wwkw	2
+份	wwv	3
+众	www	5
+价值	wwwf	1
+货	wxm	2
+信	wy	1
+依	wye	22
+信	wyg	3
+今天	wygd	5
+住	wygg	9
+念	wynn	2
+停飞	wynu	1
+贪色	wyqc	1
+依然	wyqd	1
+焦急	wyqv	1
+禽兽	wyul	1
+信念	wywy	1
+经	x	1
+红	xa	4
+练功	xaal	1
+练	xan	11
+练习	xanu	2
+经	xc	3
+经过	xcfp	2
+经常	xcip	1
+级	xe	1
+线	xg	1
+纯	xgb	1
+线条	xgts	1
+母	xgu	3
+引	xh	3
+引荐	xhad	1
+引号	xhkg	2
+强	xk	13
+细	xl	1
+细说	xlyu	1
+纲	xmq	1
+纳妾	xmuv	1
+纠正	xngh	1
+继续	xoxf	3
+综	xpf	4
+绽开	xpga	1
+绝	xqc	1
+绝对	xqcf	1
+张	xt	57
+疑惑	xtak	2
+缝	xtdp	1
+终	xtu	1
+疑似	xtwn	1
+弱	xu	1
+给	xw	22
+比	xx	11
+丝	xxg	2
+丝线	xxxg	1
+编码	xydc	1
+缠	xyj	1
+统领	xywy	1
+主	y	40
+度	ya	1
+试	yaa	3
+试验	yacw	4
+试探	yarp	1
+试试	yaya	2
+离	yb	1
+熟	ybv	1
+熟人	ybww	1
+充满	ycia	1
+庵	ydjn	1
+诚恳	ydve	1
+衣	ye	2
+衣服	yeeb	1
+衣衫	yepu	1
+计划	yfaj	1
+读者	yfft	2
+读	yfn	1
+讲述	yfsy	2
+请	yge	8
+证	ygh	1
+语	ygk	3
+语	ygkg	4
+评	ygu	5
+语嫣	ygvg	1
+评价	ygww	1
+让	yh	14
+店	yhk	1
+就	yi	78
+应该	yiyy	2
+误	ykg	2
+识货	ykwx	1
+高	ym	4
+调	ymfk	2
+敲击	ymfm	1
+高兴	ymiw	1
+敲	ymkc	2
+高跟	ymkh	1
+调养	ymud	1
+敲门	ymuy	1
+调侃	ymwk	2
+记	yn	5
+扇区	ynaq	2
+户	yne	1
+望	yneg	2
+词	yngk	1
+记号	ynkg	1
+遍	ynm	3
+扇	ynnd	1
+记忆	ynnn	2
+刻	yntj	1
+记得	yntj	1
+记录	ynvi	2
+词库	ynyl	1
+变	yo	1
+变成	yodn	1
+谈	yoo	1
+变相	yosh	1
+豪爽	ypdq	1
+亭	yps	2
+底	yqa	1
+义气	yqrn	1
+询问	yquk	3
+诉讼	yryw	1
+床	ysi	2
+麻	yss	1
+放	yt	9
+话	ytd	14
+诱	yte	1
+许	ytf	1
+放毒	ytgx	1
+谢	ytm	2
+旋即	ytvc	1
+放弃	ytyc	1
+谢谢	ytyt	1
+说	yu	98
+说明	yuje	1
+说完	yupf	1
+说话	yuyt	3
+良	yve	1
+认	yw	3
+认可	ywsk	1
+夜	ywt	2
+鹰	ywwg	2
+论	ywx	3
+谁	ywyg	10
+夜店	ywyh	1
+讹诈	ywyt	1
+方	yy	8
+方丈	yydy	1
+广	yygt	1
+文	yygy	2
+该	yynw	4
+文字	yypb	2
+言	yyy	2
+言语	yyyg	1
+落英	encaiam	0
+蓝教	encajft	0
+英和	encamt	0
+英和	encamtk	0
+花宫	encawpk	0
+随后	encbdrg	0
+阴姬	encbeva	0
+耳上	encbgh	0
+耳上	encbghh	0
+了两	encbgm	0
+了吗	encbkc	0
+出了	encbmb	0
+出了	encbmbn	0
+了几	encbmt	0
+出竹	encbmtt	0
+也有	encbnde	0
+也有	encbne	0
+了两	encbngm	0
+也没	encbnim	0
+了吗	encbnkc	0
+了几	encbnmt	0
+了神	encbnpy	0
+了插	encbnrt	0
+了神	encbpy	0
+了插	encbrt	0
+众在	encccd	0
+磊大	encccdd	0
+众在	encccdh	0
+对足	enccfkh	0
+对林	enccfss	0
+以为	encco	0
+以为	enccyl	0
+在也	encdbn	0
+磊大	encdddd	0
+大小	encddih	0
+大很	encddtv	0
+有致	encdegc	0
+有天	encdegd	0
+有不	encdegi	0
+有不	encdei	0
+有邀	encdery	0
+有杯	encdesg	0
+有意	encdeuj	0
+三长	encdgta	0
+在也	encdhbn	0
+在水	encdhi	0
+在水	encdhii	0
+在四	encdhlh	0
+在水	encdi	0
+在水	encdii	0
+在四	encdlh	0
+而起	encdmfh	0
+而入	encdmty	0
+原来	encdrgo	0
+月在	enced	0
+月在	encedh	0
+月在	enceed	0
+月在	enceedh	0
+月神	enceepy	0
+有致	encegc	0
+有天	encegd	0
+有不	encegi	0
+有不	encei	0
+月神	encepy	0
+胸至	enceqgc	0
+有邀	encery	0
+有杯	encesg	0
+用想	encetsh	0
+有意	enceuj	0
+地吹	encfbkq	0
+动之	encfcp	0
+动之	encfcpp	0
+去请	encfcyg	0
+二十	encfgfg	0
+十多	encfgqq	0
+起两	encfhgm	0
+起来	encfhgo	0
+救了	encfib	0
+救了	encfibn	0
+霄不	encfigi	0
+霄不	encfii	0
+霄长	encfita	0
+地吹	encfkq	0
+赤霄	encfofi	0
+过了	encfpb	0
+过了	encfpbn	0
+教也	encftbn	0
+教众	encftcc	0
+教到	encftgc	0
+教现	encftgm	0
+教的	encftr	0
+教的	encftrq	0
+教众	encftww	0
+教主	encfty	0
+教主	encftyg	0
+到了	encgcb	0
+到了	encgcbn	0
+一对	encgcf	0
+致地	encgcf	0
+致地	encgcfb	0
+至围	encgclf	0
+到移	encgctq	0
+天一	encgdg	0
+天一	encgdgg	0
+天下	encgdgh	0
+于此	encgfhx	0
+一进	encgfj	0
+于神	encgfpy	0
+一对	encggcf	0
+一进	encggfj	0
+一定	encggpg	0
+一神	encggpy	0
+一短	encggtd	0
+一个	encggwh	0
+正霄	encghfi	0
+正派	encghir	0
+下要	encghs	0
+下要	encghsv	0
+正谈	encghyo	0
+还以	encgic	0
+不用	encgiet	0
+不少	encgiit	0
+不败	encgimt	0
+还以	encginy	0
+不但	encgiwj	0
+更有	encgjde	0
+更有	encgje	0
+带一	encgkg	0
+带一	encgkgg	0
+现在	encgmd	0
+现在	encgmdh	0
+两天	encgmgd	0
+两长	encgmta	0
+两位	encgmwu	0
+来也	encgobn	0
+来是	encgoj	0
+来是	encgojg	0
+一定	encgpg	0
+一神	encgpy	0
+死的	encgqr	0
+死的	encgqrq	0
+一短	encgtd	0
+一个	encgwh	0
+毒了	encgxb	0
+毒了	encgxbn	0
+毒教	encgxft	0
+上带	enchgk	0
+上带	enchhgk	0
+上数	enchhov	0
+上的	enchhr	0
+上的	enchhrq	0
+点儿	enchkqt	0
+上数	enchov	0
+上的	enchr	0
+上的	enchrq	0
+眼下	enchvgh	0
+不用	enciet	0
+小的	encihr	0
+小的	encihrq	0
+水这	enciip	0
+水宫	enciipk	0
+不少	enciit	0
+水母	enciixg	0
+水这	enciiyp	0
+没有	encimde	0
+没有	encime	0
+没用	encimet	0
+不败	encimt	0
+水这	encip	0
+水宫	encipk	0
+堂主	encipy	0
+堂主	encipyg	0
+派出	encirbm	0
+派教	encirft	0
+少人	encitw	0
+少人	encitww	0
+不但	enciwj	0
+水母	encixg	0
+水这	enciyp	0
+是蓝	encjaj	0
+是成	encjdn	0
+日月	encje	0
+日月	encjee	0
+里有	encjfde	0
+里有	encjfe	0
+是蓝	encjgaj	0
+是成	encjgdn	0
+是嫌	encjgvu	0
+是谁	encjgyw	0
+日月	encjje	0
+日月	encjjee	0
+是嫌	encjvu	0
+是谁	encjyw	0
+口磊	enckcc	0
+口磊	enckdd	0
+足有	enckhde	0
+足有	enckhe	0
+口磊	enckkcc	0
+口磊	enckkdd	0
+吹了	enckqb	0
+吹了	enckqbn	0
+听说	enckryu	0
+响起	encktfh	0
+只见	enckwmq	0
+只要	enckws	0
+只要	enckwsv	0
+轻也	enclcbn	0
+围一	enclfg	0
+围一	enclfgg	0
+四处	enclhth	0
+加上	enclkh	0
+加上	enclkhh	0
+男生	enclltg	0
+岩一	encmdg	0
+岩一	encmdgg	0
+财宝	encmfpg	0
+岁的	encmqr	0
+岁的	encmqrq	0
+见位	encmqwu	0
+几声	encmtfn	0
+败正	encmtgh	0
+败的	encmtr	0
+败的	encmtrq	0
+几人	encmtw	0
+几人	encmtww	0
+屋里	encngjf	0
+已死	encngq	0
+已死	encnngq	0
+怜星	encnwjt	0
+以为	encnyo	0
+以为	encnyyl	0
+为屋	encong	0
+数个	encovwh	0
+定会	encpgwf	0
+宵水	encpii	0
+宵水	encpiii	0
+这是	encpj	0
+这是	encpjg	0
+宫不	encpkgi	0
+宫不	encpki	0
+宫的	encpkr	0
+宫的	encpkrq	0
+之极	encppse	0
+这儿	encpqt	0
+之极	encpse	0
+这种	encptk	0
+帘而	encpwdm	0
+窗侧	encpwwm	0
+神教	encpyft	0
+神水	encpyi	0
+神水	encpyii	0
+神宵	encpypi	0
+神神	encpypy	0
+角林	encqess	0
+我还	encqgi	0
+多岁	encqqmq	0
+儿了	encqtb	0
+儿了	encqtbn	0
+我行	encqtf	0
+儿就	encqtyi	0
+我他	encqwb	0
+我们	encqwu	0
+拱拱	encrara	0
+拱手	encrart	0
+的耳	encrbg	0
+看着	encrhud	0
+挑帘	encripw	0
+摆摆	encrlrl	0
+摆手	encrlrt	0
+抽出	encrmbm	0
+的耳	encrqbg	0
+的挑	encrqri	0
+的挑	encrri	0
+邀月	encrye	0
+邀月	encryee	0
+要东	encsai	0
+极为	encseo	0
+极为	encseyl	0
+要去	encsfc	0
+杯口	encsgk	0
+杯口	encsgkk	0
+想也	encshbn	0
+可以	encskc	0
+可以	encskny	0
+林救	encssfi	0
+林赤	encssfo	0
+林正	encssgh	0
+林极	encssse	0
+林总	encssuk	0
+要先	encstf	0
+要东	encsvai	0
+要去	encsvfc	0
+要先	encsvtf	0
+长一	enctag	0
+长一	enctagg	0
+长的	enctar	0
+长的	enctarq	0
+长身	enctatm	0
+短三	enctddg	0
+行的	enctfr	0
+行的	enctfrq	0
+先要	enctfs	0
+先要	enctfsv	0
+先躲	enctftm	0
+生们	enctgwu	0
+自胸	enctheq	0
+自下	encthgh	0
+躲到	enctmgc	0
+移花	enctqaw	0
+我还	enctrgi	0
+我行	enctrtf	0
+我他	enctrwb	0
+我们	enctrwu	0
+竹箫	enctttv	0
+笑着	encttud	0
+很大	enctvdd	0
+往下	enctygh	0
+着一	encudg	0
+着一	encudgg	0
+差点	encudhk	0
+闲亲	encusus	0
+亲任	encuswt	0
+姬已	encvan	0
+姬已	encvann	0
+她抽	encvbrm	0
+她们	encvbwu	0
+灵动	encvofc	0
+嫌我	encvuq	0
+嫌我	encvutr	0
+他拱	encwbra	0
+会有	encwfde	0
+会有	encwfe	0
+传遍	encwfyn	0
+人正	encwgh	0
+个二	encwhfg	0
+个很	encwhtv	0
+但有	encwjde	0
+但有	encwje	0
+但眼	encwjhv	0
+但没	encwjim	0
+但先	encwjtf	0
+侧和	encwmt	0
+侧和	encwmtk	0
+你这	encwqp	0
+你这	encwqyp	0
+人的	encwr	0
+人的	encwrq	0
+任我	encwtq	0
+任我	encwttr	0
+位堂	encwuip	0
+们这	encwup	0
+们先	encwutf	0
+位她	encwuvb	0
+们这	encwuyp	0
+众在	encwwd	0
+众在	encwwdh	0
+人正	encwwgh	0
+人的	encwwr	0
+人的	encwwrq	0
+经身	encxctm	1
+母阴	encxgbe	0
+经身	encxtm	1
+张岩	encxtmd	0
+张总	encxtuk	0
+主五	encygg	0
+主五	encyggg	0
+主角	encygqe	0
+请她	encygvb	0
+就放	encyiyt	0
+为屋	encylng	0
+遍天	encyngd	0
+谈话	encyoyt	0
+这是	encypj	0
+这是	encypjg	0
+这儿	encypqt	0
+这种	encyptk	0
+主角	encyqe	0
+放毒	encytgx	0
+话间	encytuj	0
+诱人	encytw	0
+诱人	encytww	0
+放放	encytyt	0
+放说	encytyu	0
+说日	encyuj	0
+说日	encyujj	0
+说要	encyus	0
+说要	encyusv	0
+说着	encyuud	0
+谁来	encywgo	0
+方自	encyyth	0
