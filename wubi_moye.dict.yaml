@@ -5,9 +5,13 @@
 name: wubi_moye
 version: "2023-04-12"
 import_tables:
-  - wubi_dicts/wubi_8105     # 字表
-  - wubi_dicts/wubi86_simp_ext
-  # - wubi_dicts/wubi86_jidian
+  - wubi_dicts/wubi86_jidian
+  - wubi_dicts/wubi86_jidian_extra               # 扩展词库
+  # - wubi_dicts/wubi_8105     # 字表
+  # - wubi_dicts/wubi86_simp_ext
+  # - wubi_dicts/wubi_ms
+  - wubi_dicts/wubi_single # 微软单字
+
   # - wubi_dicts/41448  # 大字表（按需启用）
   # - wubi_dicts/base     # 基础词库
   # - wubi_dicts/sogou    # 搜狗流行词
