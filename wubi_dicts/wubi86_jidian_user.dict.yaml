@@ -4,7 +4,6 @@ version: "2019-01-20"
 last_edit_time: "2021-08-07"
 dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
 
-
 sort: original
   # 码表的排序方式
   # by_weight 权重
@@ -15,8 +14,23 @@ sort: original
 # 格式：字词 键码  权重 （中间是tab，不是空格）
 # '#'开头的只是注释， 注释只能另起一行写，不能在词条后面写
 # `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
+columns:    # 码表格式
+  - text    # 文字
+  - code    # 输入码
+  - weight  # 权重
+  - stem
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:                        # 大写字母表示字序，小写字母表示其所跟随的大写字母所以表的字中的编码序
+    - length_equal: 2           # 对于二字词
+      formula: "AaAbBaBb"       # 取第一字首二码、第二字首二码
+    - length_equal: 3           # 对于三字词
+      formula: "AaBaCaCb"       # 取第一字首码、第二字首码、第三字首码、第三字二笔码
+    - length_in_range: [4, 10]  # 对于四至十字词
+      formula: "AaBaCaZa"       # 取第一字首码，第二字尾码、第三字首码、最后一字尾码
 
 ...
 ## 这是分组名
-分组词条	wxyt
-
+游魂	iyfc
+明月	jeee
