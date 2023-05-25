@@ -99,22 +99,56 @@ tradition:
 
 reverse_lookup:
   dictionary: rime_ice  # 反查使用的拼音词库
+  prism: double_pinyin_flypy # 反查使用的方案，依赖对应的 schema 文件
   prefix: "z"              # 反查前缀，以它为起点
   suffix: "'"              # 反查后缀，以它为结点
-  tips: [拼音]              # 反查时的提示信息
+  tips: [双拼]              # 反查时的提示信息
 
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-punctuator:
-  import_preset: default
-#  import_preset: symbols
-# 开始快捷输入符号功能，前面留两个空格
-# 对应需要将下面 recognizer -> patterns 下面的 punct 字段的注释去掉
 
 key_binder:
   import_preset: default
+
+date_translator:
+  date: date            # 日期： 2022-11-29
+  time: time            # 时间： 18:13
+  week: week            # 星期： 星期二
+  datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: timestamp  # 时间戳： 1669716794
+
+# 标点符号
+# punctuator 下面有三个子项：
+#   full_shape 全角标点映射
+#   half_shape 半角标点映射
+#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_v.yaml 修改成了 'v' 开头。
+punctuator:
+  full_shape:
+    __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+  # symbols:
+  #   __include: symbols_v:/symbols              # 从 symbols_v.yaml 导入配置
+  half_shape:
+    __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
+    "#": "#"
+    "`": "`"
+    "~": "~"
+    "@": "@"
+    "=": "="
+    # "'": "'"
+    "{": "{"
+    "}": "}"
+    "$": ["¥", "$", "€", "£", "¢", "¤"]
+    "<": "《"
+    ">": "》"
+    '/': '、'
+
+# punctuator:
+#   import_preset: default
+#  import_preset: symbols
+# 开始快捷输入符号功能，前面留两个空格
+# 对应需要将下面 recognizer -> patterns 下面的 punct 字段的注释去掉
 
 recognizer:
   import_preset: default

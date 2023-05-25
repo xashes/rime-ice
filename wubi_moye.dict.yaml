@@ -5,11 +5,11 @@
 name: wubi_moye
 version: "2023-04-12"
 import_tables:
-  # - wubi_dicts/wubi86_jidian
+  - wubi_dicts/wubi86_jidian
   # - wubi_dicts/wubi86_jidian_extra               # 扩展词库
 
   # 微软词库
-  - wubi_dicts/wubi_ms_one # 单字优先采用此字典
+  # - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
 
   # 新华字典，现代汉语词典
   - wubi_dicts/xdhycd_two
