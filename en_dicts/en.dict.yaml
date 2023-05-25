@@ -14,7 +14,7 @@
 # 转化应当大写的单词
 ---
 name: en
-version: "2023-04-19"
+version: "2023-05-24"
 sort: by_weight
 ...
 # +_+
@@ -522,7 +522,7 @@ Alaskan	Alaskan
 alba	alba
 albania	albania
 Albanian	Albanian
-albany	albany
+Albany	Albany
 albeit	albeit
 Albert	Albert
 Alberta	Alberta
@@ -552,7 +552,7 @@ Alfred	Alfred
 algae	algae
 algebra	algebra
 algebraic	algebraic
-algeria	algeria
+Algeria	Algeria
 algorithm	algorithm
 algorithms	algorithms
 Ali	Ali
@@ -853,7 +853,7 @@ answering	answering
 answers	answers
 ant	ant
 antarctic	antarctic
-antarctica	antarctica
+Antarctica	Antarctica
 ante	ante
 antenna	antenna
 antennas	antennas
@@ -1048,8 +1048,8 @@ areas	areas
 arena	arena
 Ares	Ares
 arg	arg
-argentina	argentina
-argentine	argentine
+Argentina	Argentina
+Argentine	Argentine
 Argos	Argos
 args	args
 arguably	arguably
@@ -1075,13 +1075,13 @@ Aristotle	Aristotle
 arithmetic	arithmetic
 arizona	arizona
 ark	ark
-arkansas	arkansas
+Arkansas	Arkansas
 arlington	arlington
 arm	arm
 armada	armada
 Armani	Armani
 armed	armed
-armenia	armenia
+Armenia	Armenia
 Armenian	Armenian
 armies	armies
 armor	armor
@@ -1170,8 +1170,8 @@ Ashley	Ashley
 ashore	ashore
 Ashton	Ashton
 # ASI	ASI
-asia	asia
-asian	asian
+Asia	Asia
+Asian	Asian
 Asians	Asians
 aside	aside
 Asin	Asin
@@ -1275,7 +1275,7 @@ Atari	Atari
 ate	ate
 atheist	atheist
 Athena	Athena
-athens	athens
+Athens	Athens
 athlete	athlete
 athletes	athletes
 athletic	athletic
@@ -1346,9 +1346,9 @@ attribution	attribution
 ATV	ATV
 # atx	atx
 # au	au
-auburn	auburn
+Auburn	Auburn
 Auch	Auch
-auckland	auckland
+Auckland	Auckland
 auction	auction
 auctions	auctions
 AUD	AUD
@@ -5612,7 +5612,7 @@ Djibouti	Djibouti
 # djs	djs
 # dk	dk
 # dl	dl
-dll	dll
+DLL	DLL
 # dlp	dlp
 # dm	dm
 # dma	dma
@@ -7700,6 +7700,7 @@ FTP	FTP
 # fu	fu
 fuck	fuck
 fucked	fucked
+fucker	fucker
 fuckers	fuckers
 # fuckin	fuckin
 fucking	fucking
@@ -14525,7 +14526,7 @@ pressure	pressure
 pressures	pressures
 prestige	prestige
 prestigious	prestigious
-preston	preston
+Preston	Preston
 presumably	presumably
 presume	presume
 presumed	presumed
