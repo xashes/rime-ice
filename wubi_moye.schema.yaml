@@ -50,8 +50,8 @@ engine:
     - table_translator
     - table_translator@custom_phrase      # 自定义短语
     - lua_translator@unicode              # Unicode
-    - lua_translator@date_translator # 自定义系统变量输出
-    - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
+    # - lua_translator@date_translator # 自定义系统变量输出
+    # - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
   # filters:
     # - simplifier@tradition
     # - simplifier@traditionalize         # 简繁切换
