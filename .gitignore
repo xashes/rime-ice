@@ -6,7 +6,6 @@ build/
 *.userdb/
 installation.yaml
 user.yaml
-*.custom.yaml
 
 others/script/scel2txt/out/*
 others/script/scel2txt/scel/*
@@ -16,3 +15,4 @@ others/script/scel2txt/scel/*
 rime_console
 rime_deployer
 rime_patch
+sync/*
