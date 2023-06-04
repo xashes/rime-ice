@@ -18,7 +18,7 @@ import_tables:
   - wubi_dicts/xinhua_idiom_four # 成语，只保留四字, 29000+ words
 
   # user dict
-  - wubi_dicts/wubi86_jidian_user               # user dict
+  # - wubi_dicts/wubi86_jidian_user               # user dict
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   # - wubi_dicts/my_dict

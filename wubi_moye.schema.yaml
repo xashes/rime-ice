@@ -18,7 +18,7 @@ switches:
 #  - name: ascii_mode
 #    reset: 0
 #    states: [ 中文, 英文 ]
-  - name: zh_trad
+  - name: traditionalize
     reset: 0    # 初始状态为 0: 简 -> 简 1: 简 -> 繁
     states: [ 简体, 繁体 ]
   - name: full_shape
@@ -48,12 +48,9 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-    # - lua_translator@date_translator # 自定义系统变量输出
-    # - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
+    - lua_translator@date_translator # 自定义系统变量输出
   filters:
     - simplifier@tradition
-    # - lua_filter@single_char_first_filter # 单字优先
-#    - lua_filter@single_char_only # 纯单字
 
 
 # 自动造词功能：参阅： https://github.com/KyleBing/rime-wubi86-jidian#6-%E5%BC%80%E5%90%AF%E8%87%AA%E5%8A%A8%E9%80%A0%E8%AF%8D
@@ -69,11 +66,11 @@ translator:
   enable_completion: true               # 是否显示编码未输入完整的词条
 
   # 开启以下三项，可自动造词，只开启第一项，调整词频
-  enable_user_dict: true               # 是否开启用户词典（用户词典记录动态字词频，用户词）
+  enable_user_dict: false               # 是否开启用户词典（用户词典记录动态字词频，用户词）
   enable_sentence: false                # 句子输入模式
-  enable_encoder: true
+  enable_encoder: false
 
-  encode_commit_history: true          # 是否对已上屏词自动成词（仅 table_translator 有效）
+  encode_commit_history: false          # 是否对已上屏词自动成词（仅 table_translator 有效）
   # preedit_format:                       # 上屏码自定义
 #    - xform/.+//
   # comment_format:                       # 提示码自定义
@@ -95,7 +92,7 @@ tradition:
   #  opencc_config: t2hk.json  # 繁 -> 香港
   #  opencc_config: s2tw.json  # 簡 -> 臺灣標準
   #  opencc_config: s2twp.json  # 簡 -> 臺灣片語
-  option_name: zh_trad
+  option_name: traditionalize
 
 reverse_lookup:
   dictionary: rime_ice  # 反查使用的拼音词库
@@ -112,12 +109,12 @@ reverse_lookup:
 key_binder:
   import_preset: default
 
-# date_translator:
-#   date: date            # 日期： 2022-11-29
-#   time: time            # 时间： 18:13
-#   week: week            # 星期： 星期二
-#   datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
-#   timestamp: timestamp  # 时间戳： 1669716794
+date_translator:
+  date: date            # 日期： 2022-11-29
+  time: time            # 时间： 18:13
+  week: week            # 星期： 星期二
+  datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
+  timestamp: timestamp  # 时间戳： 1669716794
 
 # 标点符号
 # punctuator 下面有三个子项：
@@ -139,6 +136,8 @@ punctuator:
     # "'": "'"
     "{": "{"
     "}": "}"
+    "[": "["
+    "]": "]"
     "$": ["¥", "$", "€", "£", "¢", "¤"]
     "<": "《"
     ">": "》"
