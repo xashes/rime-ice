@@ -16,7 +16,7 @@ patch:
 
   # Menu
   menu:
-    page_size: 9                    # 候选词数量，最多支持 10 个
+    page_size: 5                    # 候选词数量，最多支持 10 个
 
   key_binder:
     # Lua 配置: 以词定字（上屏当前词句的第一个或最后一个字）
