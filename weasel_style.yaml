@@ -59,7 +59,7 @@ style:
     hilite_padding: 2 # 高亮区域和边框的间隔。当值 ≥ margin 的值时，高亮颜色会覆盖整个选中的候选区域，实现「天圆地方」的效果。参考文件末的配置
     shadow_offset_x: 4 # 阴影偏离和圆角大小
     shadow_offset_y: 4
-    shadow_radius: 10
+    shadow_radius: 0
     corner_radius: 4 # 候选框圆角
     round_corner: 4  # 高亮区域圆角；又名 hilited_corner_radius
 
