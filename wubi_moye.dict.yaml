@@ -5,17 +5,17 @@
 name: wubi_moye
 version: "2023-04-12"
 import_tables:
-  - wubi_dicts/wubi86_jidian
+  # - wubi_dicts/wubi86_jidian
   # - wubi_dicts/wubi86_jidian_extra               # 扩展词库
 
   # 微软词库
-  # - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
+  - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
 
   # 新华字典，现代汉语词典
-  - wubi_dicts/xdhycd_two
+  - wubi_dicts/xdhycd_two # 二字词默认字典
+  - wubi_dicts/xinhua_idiom_four # 成语，只保留四字, 29000+ words。四字成语默认字典。
   # - wubi_dicts/xdhycd_four # 6500+ words
   # - wubi_dicts/xinhua_ci_two # 新华字典词语，只保留两字，无用词汇太多，导致重码太多
-  - wubi_dicts/xinhua_idiom_four # 成语，只保留四字, 29000+ words
 
   # user dict
   - wubi_dicts/wubi86_jidian_user               # user dict
