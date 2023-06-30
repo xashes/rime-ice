@@ -124,8 +124,6 @@ date_translator:
 punctuator:
   full_shape:
     __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
-  # symbols:
-  #   __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
   half_shape:
     __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
     "#": "#"
@@ -142,6 +140,25 @@ punctuator:
     "<": "《"
     ">": "》"
     '/': '、'
+    ';' : ['；', '……', '——']
+
+  symbols:
+    __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+    # 常用标点
+    ';a' : { commit: ！ }
+    ';h' : ['-', '&']
+    ';i' : ['」', '』']
+    ';j' : ['：「']
+    ';k' : ['〔', '【']
+    ';l' : ['〕', '】']
+    ';o' : ['#', '##', '###']
+    ';p' : ['~']
+    ';s' : ['……']
+    ';u' : ['「', '『']
+    ';v' : ['——']
+    ';x' : ['*', '**']
+    ';y' : '・'
+
 
 # punctuator:
 #   import_preset: default
@@ -155,3 +172,14 @@ recognizer:
 #    punct: "^/([0-9]+[a-z]*|[a-z]+)$" # 注意前方需要有4个空格，跟下面对齐
     reverse_lookup: "^z[a-z]*'?$" # 反查词条的正则
     calculator: "^coco.*$" # 计算器
+
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    # mkst: "^[a-y]*`[a-y`]*$"
+    punct: "^(V([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
+    # punct: "^V([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_caps_v.yaml 的 symbols
+    # rvlk1: "^z[a-z]*$"
+    # rvlk2: "^z[a-z]*$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    # zhuyin: "~[a-y]*?$"
+    # helper: '^help$'
