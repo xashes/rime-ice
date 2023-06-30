@@ -9,7 +9,10 @@ import_tables:
   # - wubi_dicts/wubi86_jidian_extra               # 扩展词库
 
   # 微软词库
-  - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
+  # - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
+
+  # 空山明月单字词库
+  - wubi_dicts/wubi86_dz # 单字优先词库，符合标准的编码，并且有权重
 
   # 新华字典，现代汉语词典
   # - wubi_dicts/xdhycd_two # 二字词默认字典
