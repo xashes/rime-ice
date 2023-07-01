@@ -49,6 +49,7 @@ engine:
     - reverse_lookup_translator
     - table_translator
     - lua_translator@date_translator # 自定义系统变量输出
+    - "lua_translator@time_date"
   filters:
     - simplifier@tradition
 
@@ -110,8 +111,8 @@ key_binder:
   import_preset: default
 
 date_translator:
-  date: date            # 日期： 2022-11-29
-  time: time            # 时间： 18:13
+#   date: date            # 日期： 2022-11-29
+#   time: time            # 时间： 18:13
   week: week            # 星期： 星期二
   datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
   timestamp: timestamp  # 时间戳： 1669716794
@@ -123,49 +124,13 @@ date_translator:
 #   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_v.yaml 修改成了 'v' 开头。
 punctuator:
   full_shape:
-    __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+    __include: punctuators:/full_shape  # 从 punctuators.yaml 导入配置
   half_shape:
-    __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
-    "#": "#"
-    "`": "`"
-    "~": "~"
-    "@": "@"
-    "=": "="
-    # "'": "'"
-    "{": "{"
-    "}": "}"
-    # "[": "["
-    # "]": "]"
-    "$": ["¥", "$", "€", "£", "¢", "¤"]
-    "<": "《"
-    ">": "》"
-    '/': '、'
-    ';' : ['；', '……', '——']
+    __include: punctuators:/half_shape  # 从 punctuators.yaml 导入配置
 
   symbols:
     __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
-    # 常用标点
-    ';a' : { commit: ！ }
-    ';p' : '%'
-    ';h' : ['-', '&']
-    ';i' : ['」', '』']
-    ';j' : ['：「']
-    ';k' : ['〔', '【']
-    ';l' : ['〕', '】']
-    ';o' : ['#', '##', '###']
-    ';s' : ['……']
-    ';u' : ['「', '『']
-    ';v' : ['——']
-    ';x' : ['*', '**']
-    ';y' : '・'
-
-    # MarkDown
-    ';tp' : ['![图片]()'] # 图片
-    ';lj' : ['[链接]()'] # 链接
-    ';dm' : ['``'] # 行内代码
-    ';code' : ['```'] # 代码块
-    ';todo' : ['- [ ]'] # 待办
-      
+    __include: punctuators:/fast_symbols
 
 # punctuator:
 #   import_preset: default
