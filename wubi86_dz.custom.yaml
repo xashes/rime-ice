@@ -11,23 +11,3 @@ patch:
   "style/preedit_type": composition
 
   # 正则
-  recognizer:
-    import_preset: default
-    patterns:
-      email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-      punct: "^(V([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
-      rvlk1: "^z[a-z]*$"
-      rvlk2: "^z[a-z]*$"
-      uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-      url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
-      zhuyin: "~[a-y]*?$"
-      helper: '^help$'
-
-  punctuator:
-    full_shape:
-      __include: punctuators:/full_shape  # 从 punctuators.yaml 导入配置
-    half_shape:
-      __include: punctuators:/half_shape  # 从 punctuators.yaml 导入配置
-    symbols:
-      __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
-      __include: punctuators:/fast_symbols
