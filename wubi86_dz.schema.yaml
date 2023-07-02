@@ -63,7 +63,6 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - "affix_segmentor@mkst"
     - "affix_segmentor@rvlk1"
     - "affix_segmentor@rvl_zhuyin"
     - abc_segmentor
@@ -75,14 +74,13 @@ engine:
     - "table_translator@rvlk1"
     - table_translator
     - "table_translator@fixed"
-    - "table_translator@mkst"
     - "table_translator@rvl_zhuyin"
     - "history_translator@history"
     - "lua_translator@helper"
     - "lua_translator@time_date"
 speller:
-  auto_select: true
-  auto_clear: max_length
+  auto_select: false
+  # auto_clear: max_length
   delimiter: "`"
   max_code_length: 4
 
@@ -95,7 +93,7 @@ translator:
   enable_encoder: false
   encode_commit_history: false
   max_phrase_length: 4
-  enable_completion: false
+  enable_completion: true               # 是否显示编码未输入完整的词条
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
@@ -113,23 +111,6 @@ fixed:
   encode_commit_history: false
   initial_quality: 1000
   max_phrase_length: 4
-
-mkst:
-  db_class: tabledb
-  dictionary: wubi86_dz
-  disable_user_dict_for_patterns:
-    - "^z.*$"
-  enable_charset_filter: false
-  enable_completion: false
-  enable_encoder: false
-  enable_sentence: true
-  enable_user_dict: false
-  encode_commit_history: false
-  initial_quality: 10
-  max_phrase_length: 4
-  prefix: "`"
-  tag: mkst
-  tips: "〔精准造词〕"
 
 rvl_zhuyin:
   db_class: tabledb
@@ -212,8 +193,7 @@ recognizer:
   import_preset: default
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-    mkst: "^[a-y]*`[a-y`]*$"
-    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    punct: "^V([0-9]0?|[A-Za-z]+)$"
     rvlk1: "^z[a-z]*$"
     rvlk2: "^z[a-z]*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
@@ -228,30 +208,22 @@ history:
 
 
 key_binder:
-  bindings:
-    - { when: has_menu, accept: Left, send: Up }
-    - { when: has_menu, accept: Right, send: Down }
-    - {accept: minus, send: Page_Up, when: has_menu}
-    - {accept: equal, send: Page_Down, when: has_menu}
-    - {accept: semicolon, send: 2, when: has_menu}
-    - {accept: apostrophe, send: 3, when: has_menu}
-    - {accept: space, send: Escape, when: composing}
-    - {accept: space, send: space, when: has_menu}
-    - {accept: Return, send: Escape, when: composing}
-    - {accept: Return, send: Escape, when: has_menu}
-    - {accept: "Control+Shift+4", toggle: zh_trad, when: always}
-    - {accept: "Control+Shift+dollar", toggle: zh_trad, when: always}
-    - {accept: "Control+Shift+F", toggle: zh_trad, when: always}
-    - {accept: "Control+Shift+H", toggle: new_spelling, when: always}
-    - {accept: "Control+Shift+J", toggle: new_hide_pinyin, when: always}
-    - {accept: "Control+Shift+K", toggle: single_char, when: always}
-    - {accept: "Control+Shift+U", toggle: GB2312, when: always}
+  import_preset: default
 
+# 标点符号
+# punctuator 下面有三个子项：
+#   full_shape 全角标点映射
+#   half_shape 半角标点映射
+#   symbols    Rime 的预设配置是以 '/' 前缀开头输出一系列字符，自定义的 symbols_v.yaml 修改成了 'v' 开头。
 punctuator:
   full_shape:
-    __include: default:/punctuator/full_shape  # 从 default.yaml 导入配置
+    __include: punctuators:/full_shape  # 从 punctuators.yaml 导入配置
   half_shape:
-    __include: default:/punctuator/half_shape  # 从 default.yaml 导入配置
+    __include: punctuators:/half_shape  # 从 punctuators.yaml 导入配置
+
+  symbols:
+    __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
+    __include: punctuators:/fast_symbols
 
 menu:
   page_size: 5

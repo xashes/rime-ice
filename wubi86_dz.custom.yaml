@@ -15,8 +15,7 @@ patch:
     import_preset: default
     patterns:
       email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-      mkst: "^[a-y]*`[a-y`]*$"
-      punct: "^(/([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
+      punct: "^(V([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
       rvlk1: "^z[a-z]*$"
       rvlk2: "^z[a-z]*$"
       uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
@@ -29,42 +28,6 @@ patch:
       __include: punctuators:/full_shape  # 从 punctuators.yaml 导入配置
     half_shape:
       __include: punctuators:/half_shape  # 从 punctuators.yaml 导入配置
-      "#": "#"
-      "`": "`"
-      "~": "~"
-      "@": "@"
-      "=": "="
-      # "'": "'"
-      "{": "{"
-      "}": "}"
-      # "[": "["
-      # "]": "]"
-      "$": ["¥", "$", "€", "£", "¢", "¤"]
-      "<": "《"
-      ">": "》"
-      '/': '、'
-      ';' : ['；', '……', '——']
-
     symbols:
       __include: symbols_caps_v:/symbols         # 从 symbols_caps_v.yaml 导入配置
-      # 常用标点
-      ';a' : { commit: ！ }
-      ';p' : '%'
-      ';h' : ['-', '&']
-      ';i' : ['」', '』']
-      ';j' : ['：「']
-      ';k' : ['〔', '【']
-      ';l' : ['〕', '】']
-      ';o' : ['#', '##', '###']
-      ';s' : ['……']
-      ';u' : ['「', '『']
-      ';v' : ['——']
-      ';x' : ['*', '**']
-      ';y' : '・'
-
-      # MarkDown
-      ';tp' : ['![图片]()'] # 图片
-      ';lj' : ['[链接]()'] # 链接
-      ';dm' : ['``'] # 行内代码
-      ';code' : ['```'] # 代码块
-      ';todo' : ['- [ ]'] # 待办
+      __include: punctuators:/fast_symbols
