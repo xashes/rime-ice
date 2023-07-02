@@ -28,6 +28,9 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
 
+menu:
+  page_size: 5
+
 engine:
   processors:
     - ascii_composer
