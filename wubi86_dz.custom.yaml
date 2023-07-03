@@ -9,5 +9,3 @@ patch:
   "style/fullscreen": false
   "style/inline_preedit": true
   "style/preedit_type": composition
-
-  # 正则

@@ -93,7 +93,7 @@ translator:
   enable_encoder: false
   encode_commit_history: false
   max_phrase_length: 4
-  enable_completion: true               # 是否显示编码未输入完整的词条
+  enable_completion: false               # 是否显示编码未输入完整的词条
   enable_user_dict: false
   disable_user_dict_for_patterns:
     - "^z.*$"
@@ -193,7 +193,7 @@ recognizer:
   import_preset: default
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-    punct: "^V([0-9]0?|[A-Za-z]+)$"
+    punct: "^(V([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
     rvlk1: "^z[a-z]*$"
     rvlk2: "^z[a-z]*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
