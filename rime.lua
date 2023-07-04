@@ -558,7 +558,7 @@ function time_date(input, seg,env)
 	set_switch_keywords(input, seg,env)
 end
 
--- from jidian wubi
+--- from jidian wubi
 --- 过滤器：单字在先
 function single_char_first_filter(input)
     local l = {}
