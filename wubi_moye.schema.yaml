@@ -51,10 +51,12 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator
-    - lua_translator@date_translator # 自定义系统变量输出
     - "lua_translator@time_date"
+    - lua_translator@calculator # 计算器：二元运算，coco 开头，如 coco56*34 coco24/1024
   filters:
     - simplifier@tradition
+    # - lua_filter@single_char_first_filter # 单字优先
+    - lua_filter@single_char_only # 纯单字
 
 
 # 自动造词功能：参阅： https://github.com/KyleBing/rime-wubi86-jidian#6-%E5%BC%80%E5%90%AF%E8%87%AA%E5%8A%A8%E9%80%A0%E8%AF%8D
@@ -113,13 +115,6 @@ reverse_lookup:
 key_binder:
   import_preset: default
 
-date_translator:
-#   date: date            # 日期： 2022-11-29
-#   time: time            # 时间： 18:13
-  week: week            # 星期： 星期二
-  datetime: datetime    # ISO 8601： 2022-11-29T18:13:11+08:00
-  timestamp: timestamp  # 时间戳： 1669716794
-
 # 标点符号
 # punctuator 下面有三个子项：
 #   full_shape 全角标点映射
@@ -149,12 +144,6 @@ recognizer:
     calculator: "^coco.*$" # 计算器
 
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
-    # mkst: "^[a-y]*`[a-y`]*$"
-    punct: "^(V([0-9]0?|[A-Za-z]+))|(;[A-Za-z]+)$"
-    # punct: "^V([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_caps_v.yaml 的 symbols
-    # rvlk1: "^z[a-z]*$"
-    # rvlk2: "^z[a-z]*$"
+    punct: "^(V([0-9]|10|[A-Za-z]+))|(;[A-Za-z]+)$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
-    # zhuyin: "~[a-y]*?$"
-    # helper: '^help$'

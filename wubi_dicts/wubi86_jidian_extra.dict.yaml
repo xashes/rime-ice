@@ -19,9 +19,8 @@ sort: original
 动效	fcuq
 底库	yqyl
 旁通	upce
-延长线	ttxg	1
+延长线	ttxg	100
 　	cokg		全角空格 co空格
-√	qctf		勾选
 困意	lsuj
 小笼包	itqn
 一泻千里	gitj
@@ -40,12 +39,12 @@ U盘	utel
 后视	rgpy
 红轴	xalm
 青轴	gelm
-茶轴	awlm	1
-黑轴	lflm	1
+茶轴	awlm	100
+黑轴	lflm	100
 白轴	rrlm
 博主	fgyg
 德邦	tfdt
-楼道	sout	1
+楼道	sout	100
 摊小便宜吃大亏	riwf
 懵逼	nagk
 滴滴	iuiu
@@ -79,7 +78,7 @@ U盘	utel
 斗鸡眼	uchv
 炸货	otwx
 亲娘	usvy
-声线	fnxg	1
+声线	fnxg	100
 惊悚	nyng
 静好	gevb
 岁月静好	megv
@@ -110,6 +109,154 @@ U盘	utel
 沉得住气	itwr
 幸存者偏差	fdfu
 米粉节	ooab
+可可爱爱	ssee
+鼻血	thtl
+退朝	vefj
+方方面面	yydd
+榴莲	sqal
+正装	ghuf
+沙县小吃	ieik
+沙县	iieg
+中转站	kluh
+电竞椅	jusd
+电竞	jnuk
+床褥	yspu
+炒鸡	oicq
+氮气	rnrn
+操控台	rrck
+泡泡	iqiq
+邀请码	rydc
+布娃娃	dvvf
+副驾	gklk
+蛋炒饭	noqn
+双节棍	casj
+<kbd></kbd>	kbd
+狗拎刀	qrvn
+L/100km	imdi
+拉胯	rued	100
+L/100km	dwjf
+莱芜	agaf
+莱钢	agqm
+方正	yygh
+泗水	ilii
+虾线	jgxg
+小红书	ixnn
+双截棍	cfsj
+电商	jnum
+微商	tmum
+个自	whth
+主路	ygkh
+机动车道	sflu
+非机动车道	dsfu
+露营灯	faos
+贪吃蛇	wkjp
+玻璃水	ggii
+时好时坏	jvjf
+备付金	twqq
+神器	pykk
+微辣	tmug
+补漆	puis
+融创	gkwb
+融创茂	gwad
+人偶服	wweb
+合二为一	wfyg
+隐形眼镜	bghq
+日抛	jjrv
+月抛	eerv
+半年抛	urrv
+取决于	bugf
+游泳圈	iilu
+运动量	ffjg
+单页	ujdm
+道克	utdq
+金枕	qqsp
+金枕榴莲	qssa
+浓稠	iptm
+码率	dcyx
+看车	rhlg
+啫喱	kfkd
+啫喱水	kkii
+蜜瓜	pnrc
+鹿皮巾	yhmh
+风噪	mqkk
+直射	fhtm
+水杯	iisg
+自研	thdg
+预判	cbud
+痛点	uchk	100
+绿钻	xvqh
+黄钻	amqh
+黑钻	lfqh
+储物	wytr
+储物箱	wtts
+凉皮	uyhc
+凉面	uydm
+藤壶	aefp
+鸡毛掸子	ctrb
+Thunder	thun
+采样率	esyx
+飚车	mqlg	100
+浓浓	ipip
+图床	ltys	100
+奔狼	dfqt
+补卡	puhh	100
+常开	ipga	100
+像是	wqjg	100
+定睛一看	phgr
+甲抗	lhry
+户口本	yksg	100
+笼布	tddm	100
+糯米粉	ooow	100
+全网	wgmq	100
+撬棒	rtsd	100
+如图所示	vlrf
+绿联	xvbu
+接头	ruud
+丑萌	nfaj
+点图	hklt
+垃圾袋	ffwa
+嚼劲	keca
+过够	fpqk
+表头	geud	100
+下来了	ggbn
+猫眼螺	qhjl
+不负此行	gqht
+火龙果	odjs
+秒数	tiov
+群文件	vywr
+比心	xxny
+出生率	btyx
+偏光镜	wiqu	100
+夹片	guth
+片尾	thnt
+静下	gegh
+所处	rnth
+三条	dgts
+童心未泯	unfi	100
+从左到右	wdgd	100
+人民日报	wnjr
+戴眼镜	fhqu	100
+法线	ifxg
+℃	ijya
+%RH	ijya
+行不行	tgtf	100
+磁吸	duke
+Web	web	100
+淀粉肠	ioen
+破壁机	dnsm	100
+自由职业者	tmbf	100
+沉底	ipyq
+FinalCutPro	fina
+犄角旮旯	tqvj
+控制台	rrck	100
+直辖市	flym
+飙车	ddlg	100
+二货	fgwx	100
+app	app
+下架	ghlk
+狼人杀	qwqs
+液位	iywu	100
+液面	iydm	100
 
 ## 汽车
 朗逸	yvqk
@@ -121,7 +268,7 @@ U盘	utel
 上汽大众	hidw
 科三	tudg
 科二	tufg
-科一	tugg	1
+科一	tugg	100
 科四	tulh
 凌渡	ufiy
 迈腾	dneu
@@ -132,22 +279,22 @@ U盘	utel
 新能源	ucid
 插电	rtjn
 混动	ijfc
-插混	rtij	1
+插混	rtij	100
 荣威	apdg
 哈弗	kwxj
 埃安	fcpv
 AION	aion
-记录仪	yvwy
+记录仪	yvwy	40
 好猫	vbqt
 欧拉	aqru
 帝豪	upyp
 名爵	qkel
-纯电	xgjn	1
+纯电	xgjn	100
 零跑	fwkh
 奥特能	ttce
 改款	ntff
 高配	ymsg
-低配	wqsg	1
+低配	wqsg	100
 车商	lgum
 朗行	yvtf
 三厢	dgds
@@ -162,7 +309,7 @@ CarPlay	carp
 车损	lgrk
 授理	regj
 三者	dgft
-三者险	dfbw	1
+三者险	dfbw	100
 车标	lgsf
 全合成	wwdn
 底壳	yqfp
@@ -175,7 +322,7 @@ CarPlay	carp
 后备箱	rtts
 
 ## 口语
-姐们	vewu	1
+姐们	vewu	100
 爷们儿	wwqt
 爷们	wqwu
 姐们儿	vwqt
@@ -187,6 +334,13 @@ CarPlay	carp
 车展	lgna
 火花塞	oapf
 滤芯	ihan
+车缝	lgxt
+车机	lgsm
+断轴	onlm
+易捷	jqrg
+挪车	rvlg
+加油卡	lihh
+审车	pjlg
 
 ## 摩托车
 单盘	ujte
@@ -196,7 +350,7 @@ CBR500R	cbr
 GoPro	gop
 GSX250R	gsx
 曼岛TT	jqtt
-排量	rdjg
+排量	rdjg	100
 护杠	rysa
 摩托范	yrai
 摩托邦	yrdt
@@ -316,8 +470,15 @@ axios	axio
 莫娣	ajvu
 隐入烟尘	btoi
 西虹市首富	sjyp
-满江红	iixa	1
+满江红	iixa	100
 武林外传	gsqw
+赤焰战场	fohf
+银河护卫队	qirb
+驯龙高手	cdyr
+血钻	tlqh
+疾速追杀	ugwq
+昆汀	jxis
+盖·里奇	ujds
 
 ## 歌手
 谢春花	ydaw
@@ -347,6 +508,7 @@ axios	axio
 孙燕姿	bauq
 莫叫姐姐	akvv
 徐怀钰	tnqg
+姫神	vapy
 
 ## 演员
 周韵	mfuj
@@ -361,6 +523,7 @@ axios	axio
 王洛丹	gimy
 孙红雷	bxfl
 沙溢	iiiu
+张艺谋	xaya
 
 ## 歌曲
 寄居蟹	pnqe
@@ -374,7 +537,7 @@ axios	axio
 千千阙歌	ttus
 
 ## 游戏名
-刺客信条	gpwt
+刺客信条	gpwt	100
 极品飞车	sknl
 塞尔达	pqdp
 英灵殿	avna
@@ -397,13 +560,17 @@ axios	axio
 音柱	ujsy
 新风机	umsm
 漏水绳	iixk
-微模块	tsfn	1
+微模块	tsfn	100
 
 ## 游戏名
 皇牌空战	rtph
 
 ## 物联网
 逆变器	uykk
+
+## 游戏名
+超级玛丽	fxgg
+球球大作战	ggdh
 
 ## 品牌
 美特斯邦威	utad
@@ -443,6 +610,16 @@ axios	axio
 圣豪	cfyp
 良品	yvkk
 罗德	lqtf
+满香都	itft
+喜家德	fptf
+徐志馍	tfqn
+海康	ityv
+
+## 软件名
+下厨房	gdyn	100
+
+## 品牌
+安踏	pvkh	100
 
 ## 区域
 莒县	akeg
@@ -462,6 +639,10 @@ axios	axio
 槐荫区	saaq
 济宁	iyps
 章丘	ujrg
+白洋淀	riip	100
+容城	pwfd	100
+文苑北庭	yauy	100
+环联夜市	gbyy
 
 ## 医学
 直肠癌	feuk
@@ -473,6 +654,9 @@ axios	axio
 安乃近	perp
 腰椎间盘突出	esub
 微创	tmwb
+吊瓶	kmua
+肛痿	eaut
+打点滴	rhiu
 
 ## 三四叠字
 众	cccc
@@ -792,7 +976,7 @@ N号房	nkyn
 🎮	iyca		游戏
 
 ## 特殊字符
-✓	qctf
+✓	qctf		勾选
 ✓	cfkg
 ²	guyy
 ³	uuyy
