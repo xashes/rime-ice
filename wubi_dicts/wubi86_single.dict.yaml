@@ -2139,10 +2139,10 @@ encoder:
 隮	byjg	10
 阬	bymn	10
 防	byn	20
-陔	byn	10
+孩	byn	30
 阸	bynn	10
-孩	bynw	20
-陔	bynw	10
+孩	bynw	10
+陔	bynw	20
 聤	byps	10
 隮	byvf	10
 以	c	20
@@ -5484,7 +5484,7 @@ u	copu	10
 鼘	fkuh	10
 蟚	fkuj	20
 鼜	fkuj	10
-喜	fkuk	50
+喜	fkuk	30
 嘉	fkuk	40
 嚭	fkuk	30
 囍	fkuk	20
@@ -9011,7 +9011,7 @@ u	copu	10
 濟	iyjg	20
 湻	iyjg	10
 济	iyjh	20
-浏	iyjh	10
+浏	iyjh	30
 滖	iyke	20
 瀼	iyke	10
 沩	iyl	10
@@ -17886,9 +17886,9 @@ u	copu	10
 魓	rqcf	10
 魊	rqcg	20
 魖	rqcg	10
-鬼	rqci	30
-魅	rqci	20
-魒	rqci	10
+鬼	rqci	10
+魅	rqci	30
+魒	rqci	20
 魀	rqcj	10
 魍	rqcn	10
 魐	rqco	10

@@ -74,12 +74,12 @@ half_shape:
 fast_symbols:
   ';a' : { commit: ！ }
   ';s' : ['……']
-  ';p' : '%'
+  ';p' : ['%', '%%']
   ';h' : ['-', '&']
   ';u' : '『'
   ';i' :  '』'
-  ';j' : '+'
-  ';k' : ['〔', '【']
+  ';j' : '['
+  ';k' : ']'
   ';l' : ['〕', '】']
   ';o' : ['#', '##', '###']
   ';v' : ['——']
@@ -87,6 +87,14 @@ fast_symbols:
   ';y' : '・'
 
   # MarkDown
+  ';qr' : '![[]]'
+  ';note' : '> [!note]'
+  ';error' : '> [!error]'
+  ';danger' : '> [!danger]'
+  ';summary' : '> [!summary]'
+  ';example' : '> [!example]'
+  ';quote' : '> [!quote]'
+  ';important' : '> [!important]'
   ';tp' : ['![图片]()'] # 图片
   ';lj' : ['[链接]()'] # 链接
   ';dm' : ['``'] # 行内代码

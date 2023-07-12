@@ -61,6 +61,7 @@ patch:
       - { when: composing, accept: Control+bracketleft, send: Escape }
       - { when: composing, accept: Alt+v, send: Page_Up }
       - { when: composing, accept: Control+v, send: Page_Down }
+
   # __patch:
   #     key_binder/+:
   #       select_first_character: "bracketleft" # 即 [
