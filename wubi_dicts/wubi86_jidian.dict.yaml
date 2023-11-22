@@ -17395,7 +17395,7 @@ u	copu	10
 鼘	fkuh	10
 蟚	fkuj	20
 鼜	fkuj	10
-喜	fkuk	30
+喜	fkuk	50
 嘉	fkuk	40
 嚭	fkuk	30
 囍	fkuk	20
@@ -25448,8 +25448,8 @@ HDR	hdr	10
 奌	hkdu	10
 鼎足三分	hkdw	10
 睊	hkeg	10
+占用	hket	30
 战胜	hket	20
-占用	hket	10
 占	hkf	10
 占地	hkfb	20
 战地	hkfb	10
@@ -26275,7 +26275,6 @@ HDR	hdr	10
 鴜	hxwo	10
 此人	hxww	10
 雌	hxwy	10
- 占比	hxx	20
 紫	hxx	10
 紫红	hxxa	10
 紫	hxxi	10
@@ -28701,9 +28700,8 @@ IMAX	imax	10
 滑下	imgh	10
 游山玩水	imgi	10
 没理	imgj	10
-没事	imgk	30
 没事	imgk	20
-洞	imgk	10
+洞	imgk	30
 油画	imgl	10
 涄	imgn	10
 没来	imgo	10
@@ -31297,7 +31295,7 @@ iPod	ipod	10
 湻	iyjg	10
 流畅	iyjh	30
 济	iyjh	20
-浏	iyjh	30
+浏	iyjh	10
 液晶	iyjj	10
 浏览	iyjt	30
 游览	iyjt	20
@@ -36032,7 +36030,7 @@ iPod	ipod	10
 劋	kkkj	10
 串口	kkkk	60
 叮叮咣咣	kkkk	50
-口	kkkk	40
+口	kkkk	70
 咒骂	kkkk	30
 叽叽喳喳	kkkk	20
 哈哈哈哈	kkkk	10
@@ -38252,7 +38250,6 @@ km/h	kmh	20
 畏难	lgcw	20
 国难	lgcw	10
 囯	lgd	10
-畏友	lgdc	10
 国大	lgdd	10
 国有	lgde	10
 罗敷有夫	lgdf	10
@@ -45873,8 +45870,8 @@ MacbookPro	mbp	10
 糣	oaqj	10
 炼句	oaqk	10
 炼钢	oaqm	10
-烧饭	oaqn	30
 烧饼	oaqn	20
+烧饭	oaqn	30
 燪	oaqn	10
 炼铁	oaqr	10
 炼狱	oaqt	10
@@ -59178,7 +59175,7 @@ QQ	qq	10
 手把手	rrrt	40
 拍手	rrrt	30
 拍拖	rrrt	20
-扳手	rrrt	10
+扳手	rrrt	22
 损兵折将	rrru	10
 白热	rrrv	10
 折椅	rrsd	10
@@ -60022,8 +60019,8 @@ QQ	qq	10
 拼装	ruuf	10
 拉美	ruug	10
 接站	ruuh	10
+抖音	ruuj	30
 拼音	ruuj	20
-抖音	ruuj	10
 抱头痛哭	ruuk	10
 拉闸	ruul	10
 挂羊头卖狗肉	ruum	10
@@ -80903,8 +80900,8 @@ Windows	wind	10
 欲火	wwoo	20
 含含糊糊	wwoo	10
 谷粒	wwou	10
+人数	wwov	30
 个位数	wwov	20
-人数	wwov	10
 谷米	wwoy	10
 从宽	wwpa	10
 人字	wwpb	10
@@ -83379,7 +83376,7 @@ XBox	xbox	10
 综计	xpyf	10
 综评	xpyg	10
 绽放	xpyt	20
-缩放	xpyt	10
+缩放	xpyt	30
 约	xq	10
 纸	xqa	10
 约期	xqad	10

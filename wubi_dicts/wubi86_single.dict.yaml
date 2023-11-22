@@ -18,6 +18,8 @@ encoder:
       formula: "AaBaCaCb"       # 取第一字首码、第二字首码、第三字首码、第三字二笔码
     - length_in_range: [4, 10]  # 对于四至十字词
       formula: "AaBaCaZa"       # 取第一字首码，第二字尾码、第三字首码、最后一字尾码
+      # 靥 由dddl 改为 dddd，两个编码都保留
+      # 蔻 由apfl 改为 apfc，没有必要为劳动这个词让路
 ...
 工	a	20
 戈	a	10
@@ -1016,6 +1018,7 @@ encoder:
 鹲	apfg	10
 萗	apfi	10
 蔻	apfl	10
+蔻	apfc	10
 氋	apfn	10
 鸏	apfo	10
 莞	apfq	10
@@ -1137,7 +1140,7 @@ encoder:
 薊	aqoj	10
 蘇	aqot	10
 菊	aqou	20
-炁	aqou	10
+炁	aqou	30
 帶	aqph	10
 慸	aqpn	10
 遰	aqpp	10
@@ -3409,10 +3412,11 @@ u	copu	10
 礪	dday	10
 砈	ddbn	10
 磊	ddd	10
-大	dddd	30
+大	dddd	10
 磊	dddf	10
 飆	dddj	10
 靥	dddl	10
+靥	dddd	30
 砺	dddn	10
 飙	dddq	10
 猋	dddu	10
@@ -10197,8 +10201,8 @@ u	copu	10
 呒	kfq	10
 呒	kfqn	10
 哮	kft	10
-哮	kftb	20
-嘟	kftb	10
+哮	kftb	10
+嘟	kftb	20
 嗜	kftj	20
 啫	kftj	10
 嘋	kftt	10
@@ -25151,8 +25155,8 @@ u	copu	10
 匘	xvtq	10
 纫	xvy	10
 綛	xvyn	10
-纫	xvyy	40
-纨	xvyy	30
+纫	xvyy	30
+纨	xvyy	40
 紈	xvyy	20
 紉	xvyy	10
 给	xw	10
