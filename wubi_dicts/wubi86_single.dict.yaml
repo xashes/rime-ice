@@ -1801,6 +1801,7 @@ encoder:
 檃	beas	20
 櫽	beas	10
 阴	beg	10
+阻	beg	20
 阻	begg	10
 隠	bevn	10
 际	bf	10
@@ -8055,8 +8056,8 @@ u	copu	10
 淑	ihic	10
 濒	ihim	20
 瀕	ihim	10
-涉	ihit	30
-渺	ihit	20
+涉	ihit	20
+渺	ihit	30
 渉	ihit	10
 渋	ihiy	10
 淖	ihj	10
@@ -9317,8 +9318,8 @@ u	copu	10
 昊	jgdu	10
 晴	jge	20
 蜻	jge	10
-晴	jgeg	20
-蜻	jgeg	10
+晴	jgeg	10
+蜻	jgeg	20
 晡	jgey	20
 蜅	jgey	10
 旦	jgf	10
