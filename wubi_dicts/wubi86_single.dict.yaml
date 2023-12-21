@@ -1801,7 +1801,6 @@ encoder:
 檃	beas	20
 櫽	beas	10
 阴	beg	10
-阻	beg	20
 阻	begg	10
 隠	bevn	10
 际	bf	10
@@ -12079,7 +12078,7 @@ u	copu	10
 峔	mftx	10
 崚	mfwt	10
 同	mg	20
-贱	mg	10
+贱	mg	30
 赋	mga	20
 岍	mga	10
 崋	mgaf	10
