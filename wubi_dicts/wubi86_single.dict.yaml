@@ -502,6 +502,7 @@ encoder:
 苪	agmw	20
 黃	agmw	10
 七	agn	30
+巧	agn	40
 匚	agn	20
 匸	agn	10
 巧	agnn	20
@@ -1697,7 +1698,7 @@ encoder:
 蘑	ays	20
 蘼	ays	10
 蘑	aysd	20
-蘼	aysd	10
+蘼	aysd	30
 藦	aysr	10
 蔴	ayss	10
 蔟	ayt	10
@@ -1801,6 +1802,7 @@ encoder:
 檃	beas	20
 櫽	beas	10
 阴	beg	10
+阻	beg	20
 阻	begg	10
 隠	bevn	10
 际	bf	10
@@ -6902,7 +6904,7 @@ u	copu	10
 妻	gvhv	10
 琭	gviy	10
 璅	gvjs	10
-玿	gvkg	10
+玿	gvnkg	10
 瑙	gvt	10
 珺	gvtk	10
 瑙	gvtq	10
@@ -8505,6 +8507,7 @@ u	copu	10
 黋	iqaw	10
 泜	iqay	10
 光	iqb	10
+汹	iqb	20
 汹	iqbh	10
 沟	iqc	10
 沟	iqcy	20
@@ -8618,6 +8621,7 @@ u	copu	10
 漂	isfi	20
 渿	isfi	10
 洒	isg	10
+酒	isg	20
 酒	isgg	20
 泍	isgg	10
 汀	ish	10
@@ -12071,6 +12075,7 @@ u	copu	10
 貦	mfqn	10
 崁	mfqw	10
 财	mft	10
+赌	mft	20
 赌	mftj	20
 賭	mftj	10
 财	mftt	20
@@ -15011,6 +15016,7 @@ u	copu	10
 视	pymq	10
 禮	pymu	10
 冖	pyn	20
+礼	pyn	30
 祀	pyn	10
 祤	pyng	10
 禕	pynh	10
@@ -15467,8 +15473,8 @@ u	copu	10
 锖	qgeg	20
 錆	qgeg	10
 鳐	qgem	10
-铺	qgey	40
-匍	qgey	30
+铺	qgey	30
+匍	qgey	40
 鋪	qgey	20
 錶	qgey	10
 鱼	qgf	10
@@ -20413,6 +20419,7 @@ u	copu	10
 頟	tkdm	10
 各	tkf	10
 和	tkg	10
+程	tkg	20
 筽	tkgd	10
 程	tkgg	20
 徎	tkgg	10
@@ -22588,6 +22595,7 @@ u	copu	10
 召	vkf	20
 叴	vkf	10
 如	vkg	10
+娱	vkg	20
 娱	vkgd	10
 妕	vkhh	10
 嬇	vkhm	10
@@ -24243,6 +24251,7 @@ u	copu	10
 鶽	wyfo	10
 傠	wyfy	10
 信	wyg	20
+住	wyg	30
 隹	wyg	10
 住	wygg	10
 僦	wyi	10
@@ -25008,6 +25017,7 @@ u	copu	10
 絉	xsyy	10
 张	xt	10
 张	xta	10
+绛	xta	20
 绛	xtah	20
 絳	xtah	10
 张	xtay	10
