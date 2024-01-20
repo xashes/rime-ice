@@ -90,6 +90,7 @@ fast_symbols:
   # MarkDown
   ';qr' : '![[]]'
   ';note' : '> [!note]'
+  ';caution' : '> [!caution]'
   ';error' : '> [!error]'
   ';danger' : '> [!danger]'
   ';summary' : '> [!summary]'

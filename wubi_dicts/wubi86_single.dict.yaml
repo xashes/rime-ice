@@ -4604,6 +4604,7 @@ u	copu	10
 胛	elh	10
 脇	elll	10
 肋	eln	10
+腮	eln	20
 腮	elny	10
 臅	elqj	10
 爵	elv	10
@@ -5231,6 +5232,7 @@ u	copu	10
 趄	fhe	10
 趄	fheg	10
 直	fhf	10
+赶	fhf	20
 矗	fhfh	10
 赶	fhfk	20
 趌	fhfk	10
@@ -5785,7 +5787,7 @@ u	copu	10
 堙	fsfg	10
 墂	fsfi	10
 霜	fsh	20
-圢	fsh	10
+圢	fsh	30
 霜	fshf	10
 鹴	fshg	10
 鸘	fsho	10
@@ -9056,7 +9058,7 @@ u	copu	10
 渟	iyps	10
 灖	iysd	10
 洲	iyt	20
-漩	iyt	10
+# 漩	iyt	10
 游	iytb	20
 湤	iytb	10
 浒	iytf	20
@@ -9605,6 +9607,7 @@ u	copu	10
 螟	jpju	20
 暝	jpju	10
 晕	jpl	10
+晖	jpl	20
 晖	jplh	20
 暉	jplh	10
 晕	jplj	20
@@ -9844,7 +9847,7 @@ u	copu	10
 旫	jvn	20
 虭	jvn	10
 晲	jvqn	20
-蜺	jvqn	10
+蜺	jvqn	30
 蛤	jw	10
 蟘	jwam	10
 蚮	jway	10
@@ -13085,6 +13088,7 @@ u	copu	10
 疏	nhyq	10
 悄	ni	10
 悄	nie	10
+屑	nie	20
 屑	nied	10
 悄	nieg	10
 尿	nii	20
@@ -14132,6 +14136,7 @@ u	copu	10
 燧	ouep	10
 煫	ouey	10
 料	ouf	10
+烂	ouf	20
 烂	oufg	10
 料	oufh	20
 炓	oufh	10
@@ -15022,7 +15027,7 @@ u	copu	10
 禕	pynh	10
 祠	pynk	10
 礼	pynn	20
-祀	pynn	10
+祀	pynn	30
 祕	pynt	10
 辶	pyny	10
 禷	pyom	10
@@ -16411,7 +16416,7 @@ u	copu	10
 铆	qqtb	20
 鉚	qqtb	10
 多	qqu	20
-爻	qqu	10
+爻	qqu	30
 钧	qqug	20
 鈞	qqug	10
 憌	qqun	10
@@ -17350,6 +17355,7 @@ u	copu	10
 抾	rfcy	10
 擩	rfdj	10
 持	rff	10
+挂	rff	20
 挂	rffg	10
 掛	rffh	10
 摴	rffn	10
@@ -23007,6 +23013,7 @@ u	copu	10
 妫	vyly	10
 妔	vymn	10
 妨	vyn	10
+妒	vyn	20
 媥	vyna	10
 妒	vynt	10
 忍	vynu	10
@@ -24245,8 +24252,8 @@ u	copu	10
 储	wyf	30
 隼	wyf	20
 詧	wyf	10
-储	wyfj	40
-隼	wyfj	20
+储	wyfj	20
+隼	wyfj	30
 儲	wyfj	10
 鶽	wyfo	10
 傠	wyfy	10
