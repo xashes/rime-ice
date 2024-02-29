@@ -640,6 +640,7 @@ encoder:
 蔋	aihc	10
 蔢	aihv	10
 东	aii	10
+莎	aii	20
 莎	aiit	10
 蕰	aijl	20
 蘯	aijl	10
@@ -10159,6 +10160,7 @@ u	copu	10
 鵑	kewo	10
 嗘	kexd	10
 吸	key	10
+啄	key	20
 啄	keyy	20
 吸	keyy	10
 叶	kf	10
@@ -13456,7 +13458,7 @@ u	copu	10
 惮	nuj	20
 憧	nuj	10
 惮	nujf	20
-憧	nujf	10
+憧	nujf	30
 愔	nujg	10
 慞	nujh	10
 憶	nujn	10
@@ -18748,7 +18750,7 @@ u	copu	10
 桓	sgj	10
 槫	sgjf	20
 醒	sgjg	30
-桓	sgjg	10
+桓	sgjg	40
 醍	sgjh	10
 棟	sgji	10
 醖	sgjl	10
