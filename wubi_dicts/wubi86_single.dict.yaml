@@ -199,7 +199,7 @@ encoder:
 期	adwe	20
 朞	adwe	10
 基	adwf	30
-斟	adwf	20
+斟	adwf	40
 卙	adwf	10
 菶	adwh	10
 綦	adwi	10
@@ -7877,7 +7877,7 @@ u	copu	10
 汲	iey	20
 涿	iey	10
 汲	ieyy	20
-涿	ieyy	10
+涿	ieyy	30
 法	if	10
 灞	ifa	10
 灞	ifae	10
@@ -9249,6 +9249,7 @@ u	copu	10
 蝯	jefc	10
 蛶	jefy	10
 明	jeg	20
+蛆	jeg	30
 蚏	jeg	10
 蛆	jegg	10
 勗	jegl	10
@@ -9334,6 +9335,7 @@ u	copu	10
 旺	jgg	20
 蚟	jgg	10
 是	jgh	10
+虾	jgh	20
 昰	jghf	10
 韪	jghh	20
 韙	jghh	10
@@ -11006,6 +11008,7 @@ u	copu	10
 哦	ktr	10
 哦	ktrt	10
 呼	ktu	10
+咚	ktu	20
 呼	ktuh	10
 咚	ktuy	10
 唩	ktvg	10
@@ -13349,6 +13352,7 @@ u	copu	10
 習	nrf	10
 翫	nrfq	10
 怕	nrg	10
+惶	nrg	20
 惶	nrgg	10
 忻	nrh	10
 憮	nrlo	10
@@ -16533,7 +16537,7 @@ u	copu	10
 猛	qtbl	10
 犯	qtbn	40
 乮	qtbn	30
-犼	qtbn	20
+犼	qtbn	50
 鉇	qtbn	10
 狁	qtc	10
 犸	qtcg	10
@@ -22407,6 +22411,7 @@ u	copu	10
 姐	vegg	10
 艮	vei	10
 奶	ven	10
+恳	ven	20
 恳	venu	10
 退	vep	10
 嫒	vepc	10
@@ -26534,6 +26539,7 @@ u	copu	10
 论	ywxn	20
 訛	ywxn	10
 认	ywy	10
+谁	ywy	40
 詅	ywyc	30
 謢	ywyc	20
 﨎	ywyc	10
