@@ -760,6 +760,7 @@ encoder:
 尀	akfy	20
 難	akfy	10
 或	akg	10
+堇	akg	20
 鄞	akgb	10
 或	akgd	30
 戜	akgd	20
@@ -3269,7 +3270,7 @@ u	copu	10
 騄	cviy	10
 駋	cvkg	10
 駸	cvpc	20
-骎	cvpc	10
+骎	cvpc	30
 难	cw	10
 駗	cwet	10
 驸	cwf	10
@@ -11336,6 +11337,7 @@ u	copu	10
 罫	lffh	10
 畤	lffy	10
 轩	lfh	20
+置	lfh	30
 軒	lfh	10
 置	lfhf	10
 団	lfi	10
@@ -11844,6 +11846,7 @@ u	copu	10
 曲	ma	10
 賤	maat	10
 曲	mad	10
+贼	mad	20
 農	made	10
 蠈	madj	10
 嵁	madn	10
@@ -12369,6 +12372,7 @@ u	copu	10
 崛	mnbm	20
 崫	mnbm	10
 崌	mndg	10
+𫖮	mndm	20
 嶎	mnff	10
 嵋	mnh	10
 嶈	mnhf	10
@@ -13275,7 +13279,7 @@ u	copu	10
 	nnll	20
 	nnll	10
 忆	nnn	20
-忋	nnn	10
+忋	nnn	30
 繠	nnni	10
 已	nnnn	30
 橤	nnns	10
@@ -13610,6 +13614,7 @@ u	copu	10
 翯	nymk	10
 忼	nymn	10
 心	nyn	10
+忙	nyn	20
 惼	nyna	10
 悷	nynd	10
 怺	nyni	10
@@ -15518,7 +15523,7 @@ u	copu	10
 錏	qghg	10
 鲇	qghk	10
 钙	qghn	40
-鲈	qghn	30
+鲈	qghn	50
 鈣	qghn	20
 鐚	qghn	10
 盥	qgi	10
@@ -21531,7 +21536,8 @@ u	copu	10
 癅	ugal	10
 痓	ugcf	10
 闰	ugd	40
-闩	ugd	30
+闩	ugd	50
+美	ugd	60
 閂	ugd	20
 閏	ugd	10
 美	ugdu	10
