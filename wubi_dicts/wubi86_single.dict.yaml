@@ -3296,7 +3296,7 @@ u	copu	10
 驋	cwxc	10
 骅	cwxf	10
 难	cwy	20
-骓	cwy	10
+骓	cwy	30
 駖	cwyc	10
 难	cwyg	30
 骓	cwyg	20
@@ -9064,7 +9064,6 @@ u	copu	10
 渟	iyps	10
 灖	iysd	10
 洲	iyt	20
-# 漩	iyt	10
 游	iytb	20
 湤	iytb	10
 浒	iytf	20
@@ -10619,6 +10618,7 @@ u	copu	10
 咣	kiqn	20
 咷	kiqn	10
 吵	kit	10
+嗨	kit	20
 吵	kitt	10
 嗨	kitu	10
 虽	kj	10
@@ -15832,7 +15832,6 @@ u	copu	10
 毚	qkxy	10
 甸	ql	10
 甸	qld	10
-锢	qld	20
 锢	qldg	20
 錮	qldg	10
 铟	qldy	20
@@ -17468,6 +17467,7 @@ u	copu	10
 挭	rgjq	20
 皩	rgjq	10
 后	rgk	10
+捂	rgk	20
 郈	rgkb	10
 后	rgkd	10
 攮	rgke	10
