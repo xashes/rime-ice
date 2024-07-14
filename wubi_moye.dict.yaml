@@ -7,7 +7,7 @@ version: "2023-04-12"
 import_tables:
   # - wubi_dicts/wubi86_jidian
   - wubi_dicts/wubi86_single # 从极点码表中提取的单字码表，字数26600，比空山和微软的单字31900左右的数量要少。
-  - wubi_dicts/wubi86_super 
+  # - wubi_dicts/wubi86_super # Unicode 14 全字符集
 
   # 微软词库
   # - wubi_dicts/wubi_ms_one # 单字优先采用此字典，生僻字排最先的问题有些麻烦
