@@ -67,7 +67,7 @@ speller:
 
 translator:
   dictionary: wubi_moye             # 翻译器将调取此字典文件
-  enable_charset_filter: true           # 开启字符集过滤
+  enable_charset_filter: false           # 开启字符集过滤
   enable_completion: true               # 是否显示编码未输入完整的词条
 
   # 开启以下三项，可自动造词，只开启第一项，调整词频
