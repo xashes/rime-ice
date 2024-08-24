@@ -20,7 +20,6 @@ encoder:
       formula: "AaBaCaZa"       # 取第一字首码，第二字尾码、第三字首码、最后一字尾码
       # 靥 由dddl 改为 dddd，两个编码都保留
       # 蔻 由apfl 改为 apfc，没有必要为劳动这个词让路
-      # k的一级简码，由中改为口。
 ...
 工	a	20
 戈	a	10
@@ -9989,7 +9988,7 @@ u	copu	10
 蚊	jyy	20
 旼	jyy	10
 中	k	20
-口	k	30
+口	k	10
 呀	ka	10
 嘶	kad	10
 喏	kadk	10
